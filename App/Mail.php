@@ -35,11 +35,11 @@ class Mail
 
         $mail->SMTPOptions = array(
             'ssl' => array(
-            'verify_peer' => false,
-            'verify_peer_name' => false,
-            'allow_self_signed' => true
+                'verify_peer' => false,
+                'verify_peer_name' => false,
+                'allow_self_signed' => true
             )
-            );
+        );
 
         try {
             $mail->isSMTP();
@@ -47,13 +47,13 @@ class Mail
             // $mail->SMTPDebug = 2;
             $mail->Host = 'smtp.gmail.com';
             $mail->SMTPAuth = true;
-            $mail->Username = 'sender@sth.com';
-            $mail->Password = 'secret';
+            $mail->Username = 'maciej.pulka.programista@gmail.com';
+            $mail->Password = 'jooevhfntzkinyoc';
             $mail->SMTPSecure = 'tls';
             $mail->Port = 587;
 
-            $mail->setFrom('sender@sth.com');
-            $mail->addAddress($to);
+            $mail->setFrom('maciej.pulka.programista@gmail.com');
+            $mail->addAddress('maciej.piotr.pulka@gmail.com');
             $mail->Subject = $subject;
             $mail->Body = $text;
 

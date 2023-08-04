@@ -1,30 +1,63 @@
-{% extends "base.html" %}
+<!DOCTYPE html>
+<html lang="en">
 
-{% block title %}Log in{% endblock %}
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Logging In Menu</title>
+    <link rel="stylesheet" href="/css/mainMenu.css">
+    <link href="https://fonts.googleapis.com/css2?family=Bungee+Inline&family=Bungee+Shade&display=swap"
+        rel="stylesheet">
+</head>
 
-{% block body %}
-
-    <h1>Log in</h1>
-
-    <form action="/login/create" method="post">
-
-        <div class="form-group">
-            <label for="inputEmail">Email address</label>
-            <input type="email" id="inputEmail" name="email" placeholder="Email address" autofocus value="{{ email }}" class="form-control" />
+<body id="logginginBody">
+    <div class="loggingin">
+        <div id="heading">
+            <a href="/">
+                <h1>B &nbsp; U &nbsp; D &nbsp; Ż &nbsp; E &nbsp; T &nbsp; &nbsp; &nbsp; &nbsp; O &nbsp; S &nbsp; O &nbsp; B &nbsp; I &nbsp; S &nbsp; T &nbsp; Y</h1>
+            </a>
         </div>
-        <div class="form-group">
-            <label for="inputPassword">Password</label>
-            <input type="password" id="inputPassword" name="password" placeholder="Password" class="form-control" />
+    
+        <div id="headingSmall">
+            <a href="/">
+                <h1>&nbsp; &nbsp; B &nbsp; U &nbsp; D &nbsp; Ż &nbsp; E &nbsp; T &nbsp; &nbsp;</h1> 
+                <h1>O &nbsp; S &nbsp; O &nbsp; B &nbsp; I &nbsp; S &nbsp; T &nbsp; Y</h1>
+            </a>
         </div>
-        <div class="checkbox">
-            <label>
-                <input type="checkbox" name="remember_me" {% if remember_me %} checked="checked"{% endif %} /> Remember me
-            </label>
-        </div>
+    
+        <form action="/login/create" method="post">
+            <section id="inputs">
+                <input id="email" type="email" name="email" placeholder="Email" required>
+                <div>
+                    <input id="myInput" type="password" name="password" placeholder="Hasło" required>
+                    <input id="showPassword" type="checkbox" onclick="myFunction()">
+                    <label for="showPassword">Pokaż hasło</label>
+                </div>
+            </section>
+    
+            <div class="checkbox">
+                <input type="checkbox" id="rememberme" name="rememberme" checked>
+                <label for="rememberme">&nbsp;&nbsp;Zapamiętaj mnie</label>
+            </div>
+    
+            <div id="button">
+                <button>ZROBIONE!&nbsp;<img src="pictures/finger-png-43096.png" alt="" width="50" height="35"></button>
+            </div>
+        </form>
+    </div>
 
-        <button type="submit" class="btn btn-default">Log in</button>
-        <a href="/password/forgot">Forgot password?</a>
+    <script>
+        function myFunction() {
+            var x = document.getElementById("myInput");
+            if (x.type === "password") {
+                x.type = "text";
+            } else {
+                x.type = "password";
+            }
+        }
+    </script>
 
-    </form>
+</body>
 
-{% endblock %}
+</html>
