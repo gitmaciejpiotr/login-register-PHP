@@ -2,8 +2,14 @@
 
 namespace App;
 
-use App\Config;
-use Mailgun\Mailgun;
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\Exception;
+use PHPMailer\PHPMailer\SMTP;
+
+// require 'vendor/PHPMailer/src/Exception.php';
+// require 'vendor/PHPMailer/src/PHPMailer.php';
+// require 'vendor/PHPMailer/src/SMTP.php';
+
 
 /**
  * Mail
@@ -25,13 +31,35 @@ class Mail
      */
     public static function send($to, $subject, $text, $html)
     {
-        $mg = new Mailgun(Config::MAILGUN_API_KEY);
-        $domain = Config::MAILGUN_DOMAIN;
+        $mail = new PHPMailer(true);
 
-        $mg->sendMessage($domain, ['from'    => 'your-sender@your-domain.com',
-                                   'to'      => $to,
-                                   'subject' => $subject,
-                                   'text'    => $text,
-                                   'html'    => $html]);
+        $mail->SMTPOptions = array(
+            'ssl' => array(
+            'verify_peer' => false,
+            'verify_peer_name' => false,
+            'allow_self_signed' => true
+            )
+            );
+
+        try {
+            $mail->isSMTP();
+            // $mail->SMTPDebug = SMTP::DEBUG_SERVER;
+            // $mail->SMTPDebug = 2;
+            $mail->Host = 'smtp.gmail.com';
+            $mail->SMTPAuth = true;
+            $mail->Username = 'sender@sth.com';
+            $mail->Password = 'secret';
+            $mail->SMTPSecure = 'tls';
+            $mail->Port = 587;
+
+            $mail->setFrom('sender@sth.com');
+            $mail->addAddress($to);
+            $mail->Subject = $subject;
+            $mail->Body = $text;
+
+            $mail->send();
+        } catch (Exception $e) {
+            $errors[] = $mail->ErrorInfo;
+        }
     }
 }
