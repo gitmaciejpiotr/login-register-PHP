@@ -19,8 +19,20 @@ class User extends \Core\Model
      * Error messages
      *
      * @var array
+     * 
      */
+
     public $errors = [];
+    public $id;
+    protected $name;
+    protected $email;
+    protected $password;
+    protected $password2;
+    protected $activation_token;
+    protected $remember_token;
+    protected $expiry_timestamp;
+    protected $password_reset_token;
+
 
     /**
      * Class constructor
@@ -79,30 +91,34 @@ class User extends \Core\Model
     {
         // Name
         if ($this->name == '') {
-            $this->errors[] = 'Name is required';
+            $this->errors[] = 'Ja jestem BO, a Ty? Wpisz imię';
         }
 
         // email address
         if (filter_var($this->email, FILTER_VALIDATE_EMAIL) === false) {
-            $this->errors[] = 'Invalid email';
+            $this->errors[] = 'Niepoprawny mail - poprawisz?';
         }
         if (static::emailExists($this->email, $this->id ?? null)) {
-            $this->errors[] = 'email already taken';
+            $this->errors[] = 'Zajęty mail - wpisz inny';
         }
 
         // Password
         if (isset($this->password)) {
 
-            if (strlen($this->password) < 6) {
-                $this->errors[] = 'Please enter at least 6 characters for the password';
+            if (strlen($this->password) < 8) {
+                $this->errors[] = 'Wpisz co najmniej 8 znaków do hasła';
             }
 
             if (preg_match('/.*[a-z]+.*/i', $this->password) == 0) {
-                $this->errors[] = 'Password needs at least one letter';
+                $this->errors[] = 'Dodaj chociaż 1 literę do hasła';
             }
 
             if (preg_match('/.*\d+.*/i', $this->password) == 0) {
-                $this->errors[] = 'Password needs at least one number';
+                $this->errors[] = 'Dodaj chociaż 1 cyfrę do hasła';
+            }
+
+            if($this->password !== $this->password2) {
+                $this->errors[] = 'Powtórz hasło (dokładnie)';
             }
 
         }

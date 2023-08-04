@@ -1,0 +1,1540 @@
+/* SEE BALANCE SITE STYLES */
+
+body {
+    background-color: gold;
+    display: flex;
+    justify-content: center;
+    background: no-repeat url(pictures/galaxy.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#heading {
+    display: none;
+}
+
+#heading h1 {
+    font-size: 20px;
+}
+
+.pie-chart h2 {
+    font-size: 19px;
+    margin: 0;
+    margin-right: 25%;
+    font-family: 'Bungee Shade', cursive;
+    text-align: left;
+}
+
+#rightChart h2 {
+    left: 30%;
+}
+
+h3 {
+    text-align: center;
+    font-family: 'Bungee Inline', serif;
+    font-size: 22px;
+    height: 23px;
+    margin: 0;
+    margin-bottom: 18px;
+}
+
+h4 {
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Bungee Shade', cursive;
+}
+
+h4:hover {
+    cursor: default;
+}
+
+h5 {
+    font-size: 55px;
+    width: 300px;
+    height: 50px;
+    color: black;
+    margin: 0;
+    text-align: center;
+    font-family: 'Bungee Shade', cursive;
+    transition: color 0.5s;
+}
+
+h5:hover {
+    color: white;
+    cursor: default;
+}
+
+h5:hover+#messageForUser {
+    opacity: 1;
+}
+
+#options {
+    margin-top: 97px;
+    width: 90%;
+    height: 545px;
+    background-color: rgb(255, 215, 0, 0.7);
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    border: 6px solid black;
+    border-radius: 2vw;
+}
+
+#buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.navbar {
+    position: relative;
+    top: 0;
+    overflow: hidden;
+    font-family: 'Bungee Inline', serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border-radius: 1.5vw 1.5vw 0 0;
+}
+
+.navbar a {
+    float: left;
+    font-size: 15px;
+    color: black;
+    text-align: center;
+    border: 2px solid gold;
+    border-bottom-color: black;
+    padding: 5px 3px;
+    width: 20%;
+    height: 35px;
+    text-decoration: none;
+    transition: background-color 0.2s;
+}
+
+.navbar a:nth-of-type(1) {
+    border-radius: 1.5vw 0 0 0;
+}
+
+.navbar a:nth-of-type(4) {
+    border-radius: 0 1.5vw 0 0;
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+    width: 20%;
+}
+
+.dropdown .dropbtn {
+    cursor: pointer;
+    font-size: 15px;
+    width: 100%;
+    height: 93%;
+    border: 2px solid gold;
+    border-bottom-color: black;
+    outline: none;
+    color: black;
+    padding: 5px 3px;
+
+    background-color: rgb(255, 215, 0, 0.7);
+    font-family: inherit;
+    margin: 0;
+    transition: inherit;
+}
+
+.navbar a:hover,
+.dropdown:hover .dropbtn,
+.dropbtn:focus {
+    background-color: gold;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    top: 160px;
+    left: 41.35%;
+    background-color: black;
+    width: 17.3%;
+    height: 200px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    border-radius: 0 0 5px 5px;
+}
+
+.dropdown-content a {
+    font-family: 'Bungee Inline', serif;
+    font-size: 15px;
+    padding: 5px 3px;
+    height: 35px;
+    transition: background-color 0.2s;
+    float: none;
+    color: white;
+    border: none;
+    width: 85%;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    margin: 0;
+}
+
+.dropdown-content a:hover {
+    color: gold;
+    background-color: black;
+    border-radius: 0 0 5px 5px;
+}
+
+.show {
+    display: block;
+}
+
+.option:nth-of-type(1) {
+    border-radius: 1.5vw 0 0 0;
+}
+
+.option:nth-of-type(3) {
+    border: black;
+    background-color: black;
+    color: gold;
+}
+
+.option:nth-of-type(5) {
+    border-radius: 0 1.5vw 0 0;
+}
+
+#pie-charts {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 0;
+    height: 250px;
+}
+
+.card {
+    background-color: transparent;
+    width: 40%;
+}
+
+#menuToggle,
+#menuToggle2 {
+    visibility: hidden;
+    opacity: 0;
+}
+
+.pie-chart {
+    background:
+        radial-gradient(circle closest-side,
+            transparent 66%,
+            gold 0),
+        conic-gradient(#ff9100 0,
+            #ff9100 38%,
+            #AC8900 0,
+            #AC8900 61%,
+            #004e2e 0,
+            #004e2e 77%,
+            #989b00 0,
+            #989b00 87%,
+            #008692 0,
+            #008692 93%,
+            #D25400 0,
+            #D25400 100%);
+
+    width: 90%;
+    min-height: 270px;
+    margin: 0;
+    margin-left: 20%;
+    border-radius: 45px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#rightChart {
+    background:
+        radial-gradient(circle closest-side,
+            transparent 66%,
+            gold 0),
+        conic-gradient(#DC8000 0,
+            #DC8000 38%,
+            #5f4c00 0,
+            #5f4c00 61%,
+            #B3A700 0,
+            #B3A700 77%,
+            #9C7A00 0,
+            #9C7A00 87%,
+            #00636C 0,
+            #00636C 93%,
+            #993D00 0,
+            #993D00 100%);
+
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 3px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: gold;
+    border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: black;
+    border-radius: 10px;
+}
+
+.boldedDescription {
+    padding: 4px;
+    font-size: large;
+    background-color: rgba(0, 0, 0, 0.1);
+    font-family: 'Cormorant SC', serif;
+    border-radius: 20px;
+}
+
+.boldedHeading {
+    font-family: 'Bungee Inline', serif;
+}
+
+/* .pie-chart*/
+.chartDescription {
+    position: absolute;
+    width: 30%;
+    margin-top: 50px;
+    height: 210px;
+    font-size: smaller;
+    font-family: 'Bungee Inline', cursive;
+    text-align: center;
+}
+
+.card ul {
+    margin: 0 5px 0;
+    background-color: gold;
+    padding: 0 0 2px 0;
+    width: 100%;
+    height: 210px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    text-align: center;
+    list-style: none;
+    border-radius: 0 0 0 46px;
+}
+
+.card li {
+    color: white;
+    margin-top: 4%;
+}
+
+span {
+    background-color: rgba(255, 255, 255, 0.4);
+    padding-right: 6px;
+}
+
+#leftCard span {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+#leftCard span:nth-of-type(3) {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.pie-chart span:after {
+    display: inline-block;
+    content: "";
+    width: 0.8em;
+    margin-left: 0.4em;
+    height: 0.8em;
+    border-radius: 0.2em;
+    background: currentColor;
+}
+
+/* This container is needed to position the front and back side */
+.flip-card-inner {
+    position: relative;
+    width: 100%;
+    text-align: center;
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
+}
+
+/* Do an horizontal flip when you move the mouse over the flip box container */
+:checked+.flip-card-inner {
+    transform: rotateY(180deg);
+}
+
+.flip-card-front {
+    background-color: gold;
+    border-radius: 46px;
+    border: 3px solid black;
+}
+
+/* Position the front and back side */
+.flip-card-front,
+.flip-card-back {
+    position: absolute;
+    width: 35vw;
+    display: flex;
+    flex-direction: row;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+
+/* Style the back side */
+.flip-card-back {
+    color: white;
+    transform: rotateY(180deg);
+}
+
+.fixed_header {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+    font-family: 'Cormorant SC', serif;
+}
+
+.fixed_header tbody {
+    display: block;
+    width: 100%;
+    overflow: auto;
+    height: 242px;
+}
+
+.fixed_header thead tr {
+    display: block;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.fixed_header thead {
+    background: black;
+    color: #fff;
+}
+
+.fixed_header th,
+.fixed_header td {
+    padding: 5px;
+    text-align: left;
+    width: 20%;
+}
+
+.category {
+    color: black;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.cat1 {
+    background-color: #ff9100;
+}
+
+.cat2 {
+    background-color: #AC8900;
+}
+
+.cat3 {
+    color: white;
+    background-color: #004e2e;
+}
+
+.cat4 {
+    background-color: #989b00;
+}
+
+.cat5 {
+    background-color: #008692;
+}
+
+.cat6 {
+    background-color: #D25400;
+}
+
+#rightTable .cat1 {
+    background-color: #DC8000;
+}
+
+#rightTable .cat2 {
+    color: white;
+    background-color: #5f4c00;
+}
+
+#rightTable .cat3 {
+    color: black;
+    background-color: #B3A700;
+}
+
+#rightTable .cat4 {
+    background-color: #9C7A00;
+}
+
+#rightTable .cat5 {
+    color: white;
+    background-color: #00636C;
+}
+
+#rightTable .cat6 {
+    color: white;
+    background-color: #993D00;
+}
+
+.categorySum_FirstPart {
+    background-color: rgba(128, 128, 128, 0.4);
+    border-radius: 10px 0 0 10px;
+}
+
+.categorySum_SecondPart {
+    background-color: rgba(128, 128, 128, 0.4);
+    border-radius: 0 10px 10px 0;
+}
+
+button {
+    background-color: transparent;
+    border-radius: 2px;
+    transition: background-color 0.05s;
+}
+
+button:hover {
+    background-color: gold;
+}
+
+.toggleButton {
+    font-family: 'Bungee Inline', serif;
+    margin-top: 0.5%;
+    padding: 15px 25px;
+    height: 45px;
+    font-size: 20px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: gold;
+    background-color: #333;
+    border: 2.5px solid goldenrod;
+    border-radius: 90px;
+    box-shadow: 0 0.5em rgba(0, 0, 0, 0.493);
+    transition: color 0.2s, background-color 0.2s, border-color 0.2s, box-shadow 0.1s, transform 0.1s;
+}
+
+.toggleButton:hover {
+    background-color: #DC042C;
+    border-color: gold;
+    color: gold;
+}
+
+.toggleButton:active {
+    background-color: rgb(199, 0, 0);
+    box-shadow: 0 5px black;
+    box-shadow: 0 0.25em black;
+    transform: translateY(4px);
+    border-color: rgb(156, 119, 23);
+}
+
+.toggleButton:nth-of-type(1) {
+    margin-left: 6%;
+}
+
+.toggleButton:nth-of-type(2) {
+    margin-right: 6%;
+}
+
+.card .toggleButton {
+    display: none;
+}
+
+#plus {
+    margin-top: 120px;
+    font-size: 40px;
+}
+
+footer {
+    margin-top: 70px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+#messageForUser {
+    position: fixed;
+    opacity: 0;
+    top: 0;
+    left: 0;
+    background-color: black;
+    margin-left: 90px;
+    border: 9px white;
+    border-style: dotted;
+    margin-top: 0.1%;
+    margin-bottom: 0;
+    transition-property: all;
+    transition-duration: 0.5s;
+}
+
+#messageForUser h1 {
+    font-size: 16px;
+    color: gold;
+    text-align: center;
+    font-family: 'Bungee Shade', cursive;
+    margin: 0;
+    cursor: default;
+}
+
+#messageForUser h1:nth-of-type(2) {
+    font-family: 'Bungee Inline', serif;
+}
+
+#vintageMan {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 111px;
+    width: 111px;
+}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity .35s, visibility .35s, height .35s;
+    overflow: hidden;
+    background: black;
+    z-index: -1;
+}
+
+#hamburger-input {
+    display: none;
+}
+
+#hamburger-menu {
+    position: absolute;
+    top: 55px;
+    right: 60px;
+    width: 50px;
+    height: 50px;
+    display: none;
+    border: none;
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Cormorant SC', serif;
+    background: linear-gradient(to bottom,
+            rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7) 20%,
+            transparent 20%, transparent 40%,
+            rgba(255, 255, 255, 0.7) 40%, rgba(255, 255, 255, 0.7) 60%,
+            transparent 60%, transparent 80%,
+            rgba(255, 255, 255, 0.7) 80%, rgba(255, 255, 255, 0.7) 100%);
+}
+
+#hamburger-menu #sidebar-menu {
+    visibility: hidden;
+    position: fixed;
+    top: 0;
+    left: -250px;
+    width: 200px;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    transition: 0.3s;
+    padding: 0px 10px;
+    box-sizing: border-box;
+}
+
+#hamburger-menu h3 {
+    text-align: center;
+    font-family: 'Bungee Shade', cursive;
+    color: #ddfac6;
+    font-size: 2.2rem;
+    margin-bottom: 60px;
+    margin-top: 20px;
+}
+
+#hamburger-menu ul {
+    padding-left: 0px;
+    margin-top: 10%;
+}
+
+#hamburger-menu li {
+    list-style-type: none;
+    line-height: 3rem;
+}
+
+#hamburger-menu a {
+    color: #ddfac6;
+    font-size: 1.3rem;
+    text-decoration: none;
+}
+
+#hamburger-menu a:hover {
+    color: gold;
+}
+
+#hamburger-input:checked+#hamburger-menu #sidebar-menu {
+    visibility: visible;
+    left: 0;
+}
+
+#hamburger-input:checked~.overlay {
+    visibility: visible;
+    opacity: 0.4;
+}
+
+
+@media (max-width: 1250px) {
+
+    #options {
+        /* margin-top: 20px; */
+        height: 1250px;
+        margin-bottom: 5%;
+    }
+
+    .dropdown-content {
+        top: 159px;
+    }
+
+    .dropdown-content a {
+        font-size: 1.20vw;
+    }
+
+    #pie-charts {
+        flex-direction: column;
+        justify-content: space-between;
+        height: 600px;
+        margin-top: 2.5%;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+
+    .card {
+        width: 100%;
+    }
+
+    .pie-chart {
+        width: 100%;
+    }
+
+    .flip-card-front,
+    .flip-card-back {
+        width: 100%;
+    }
+
+    .buttonContainer {
+        width: 100%;
+        position: relative;
+        top: 280%;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    .card .toggleButton {
+        display: inline;
+    }
+
+    #plus {
+        margin-top: 320px;
+        margin-left: 5%;
+        margin-bottom: 0;
+        font-size: 50px;
+    }
+
+    footer {
+        margin-top: 400px;
+    }
+
+    footer .toggleButton {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    #main-menu {
+        display: none;
+    }
+
+    #hamburger-menu {
+        display: inline;
+    }
+}
+
+@media(max-width: 1000px) {
+    .split h1 {
+        margin-top: 2%;
+        margin-bottom: 0;
+        text-align: right;
+        font-family: 'Bungee Shade', cursive;
+        font-size: 15px;
+        color: black;
+    }
+
+    .right h1 {
+        text-align: left;
+        color: rgb(136, 116, 0);
+    }
+
+    .navbar {
+        display: none;
+    }
+
+    .dropdown-content {
+        display: none;
+    }
+
+    #hamburger-menu {
+        top: 127px;
+        right: 65px;
+    }
+
+    #heading {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    #title {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+}
+
+@media(max-width: 750px) {
+    #secondTitle {
+        margin-left: 32%;
+    }
+
+    .split h1 {
+        font-size: 11.5px;
+    }
+
+    #hamburger-menu {
+        width: 40px;
+        height: 40px;
+        top: 194.5px;
+        right: 50.5px;
+    }
+
+    #heading h1 {
+        font-size: 3vw;
+    }
+}
+
+@media(max-width: 690px) {
+    #options {
+        height: 1270px;
+    }
+
+    .chartDescription {
+        font-size: 1.9vw;
+    }
+
+    .pie-chart h2 {
+        font-size: 2.8vw;
+        margin-right: 10%;
+    }
+
+    .fixed_header {
+        font-size: 2.7vw;
+        font-weight: 800;
+    }
+
+    .card li {
+        margin-top: 4%;
+    }
+
+    .fixed_header svg {
+        width: 12px;
+        height: 12px;
+    }
+
+    #pie-charts {
+        margin-top: 7.5%;
+    }
+
+    #plus {
+        top: 69%;
+        font-size: 45px;
+    }
+}
+
+@media(max-width: 570px) {
+    .pie-chart h2 {
+        font-size: 3.5vw;
+        left: 17%;
+    }
+
+    #rightChart h2 {
+        left: 21%;
+    }
+}
+
+
+/* MAIN MENU STYLES */
+
+.mainMenu .split {
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.mainMenu .left {
+    left: 0;
+    background-color: rgba(255, 217, 0);
+}
+
+.mainMenu .right {
+    right: 0;
+    background-color: rgba(0, 0, 0);
+}
+
+.mainMenu .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.mainMenu h1 {
+    margin-top: 10%;
+    margin-bottom: 0;
+    text-align: right;
+    font-family: 'Bungee Shade', cursive;
+    font-size: 2.5vw;
+}
+
+.mainMenu .right h1 {
+    text-align: left;
+    color: gold;
+}
+
+.mainMenu h2 {
+    text-align: right;
+    font-family: 'Bungee Inline', serif;
+    font-size: 1.1vw;
+    margin: 0;
+}
+
+.mainMenu .right h2 {
+    text-align: left;
+    color: gold;
+}
+
+.mainMenu h3 {
+    text-align: right;
+    font-family: 'Bungee Inline', serif;
+    font-size: 0.9vw;
+    margin-top: 35%;
+}
+
+.mainMenu .right h3 {
+    text-align: left;
+    color: gold;
+}
+
+.mainMenu h4 {
+    text-align: right;
+    font-family: 'Bungee Shade', cursive;
+    font-size: 2vw;
+    margin: 0;
+}
+
+.mainMenu .right h4 {
+    text-align: left;
+    color: gold;
+}
+
+.mainMenu a {
+    font-family: 'Bungee Inline', cursive;
+    text-decoration: none;
+    background: none;
+    color: black;
+    border: 2px solid;
+    border-radius: 90px;
+    padding: 1em 2em;
+    font-size: 0.9vw;
+    transition: background-color 0.2s, color 0.2s, border-color 0.2s, transform 0.2s;
+}
+
+.mainMenu .right a {
+    color: gold;
+}
+
+.mainMenu a:hover {
+    border-color: transparent;
+    background-color: black;
+    color: gold;
+    transform: translateY(-0.25em);
+    cursor: pointer;
+}
+
+.mainMenu .right a:hover {
+    background-color: gold;
+    border: black;
+    color: black;
+}
+
+.mainMenu .downText {
+    position: fixed;
+    top: 80%;
+    left: 47.5%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.mainMenu .right .downText {
+    top: 80%;
+    left: 52.5%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+@media (max-width: 1200px) {
+    .mainMenu h1 {
+        margin-top: 15%;
+        font-size: 3vw;
+    }
+
+    .mainMenu h2 {
+        font-size: 1vw;
+    }
+
+    .mainMenu h3  {
+        font-size: 1vw;
+        margin-top: 50%;
+    }
+
+    .mainMenu h4 {
+        font-size: 2vw;
+    }
+
+    .mainMenu a {
+        font-size: 1vw;
+        padding: 1em 2em;
+    }
+
+    .mainMenu a {
+        font-size: 1.25vw;
+        padding: 2em 1.2em;
+    }
+
+    .mainMenu .right a {
+        padding: 2em 1.2em;
+    }
+}
+
+@media (max-width: 1000px) {
+    .mainMenu h1 {
+        margin-top: 15%;
+        font-size: 3.25vw;
+    }
+
+    .mainMenu h2 {
+        font-size: 1.5vw;
+    }
+
+    .mainMenu h3  {
+        font-size: 1.5vw;
+        margin-top: 70%;
+    }
+
+    .mainMenu h4 {
+        font-size: 3vw;
+    }
+
+    .mainMenu a {
+        font-size: 1.5vw;
+        padding: 2.5em 0.5em;
+    }
+
+    .mainMenu .right a {
+        padding: 2.5em 1.2em;
+    }
+
+    .mainMenu .downText {
+        left: 46%;
+    }
+    
+    .mainMenu .right .downText {
+        left: 54%;
+        top: 79.75%;
+    }
+}
+
+@media (max-width: 810px) {
+    .mainMenu h1 {
+        margin-top: 6%;
+        font-size: 5vw;
+        text-align: center;
+    }
+
+    .mainMenu .right h1 {
+        text-align: center;
+    }
+
+    .mainMenu h2 {
+        font-size: 2vw;
+    }
+
+    .mainMenu h3  {
+        font-size: 1.5vw;
+        margin-top: 50%;
+    }
+
+    .mainMenu h4 {
+        font-size: 4vw;
+    }
+
+    .mainMenu a {
+        font-size: 2vw;
+        padding: 3em 0.6em;
+    }
+
+    .mainMenu .right a {
+        padding: 3em 1.5em;
+    }
+
+    .mainMenu .downText {
+        left: 45%;
+    }
+    
+    .mainMenu .right .downText {
+        left: 55%;
+        top: 79.75%;
+    }
+}
+
+@media (max-width: 720px) {
+    .mainMenu a {
+        font-size: 2vw;
+        padding: 3.5em 1em;
+    }
+
+    .mainMenu .right a {
+        padding: 3.5em 1.5em;
+    }
+}
+
+@media (max-width: 650px) {
+    .mainMenu h1 {
+        margin-top: 20%;
+    }
+    
+    .mainMenu h3  {
+        margin-top: 100%;
+    }
+
+    .mainMenu a {
+        font-size: 2vw;
+        padding: 5em 1em;
+    }
+
+    .mainMenu .right a {
+        padding: 5em 2.25em;
+    }
+}
+
+
+
+/* REGISTRATION STYLES */
+
+#registrationBody {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: no-repeat url(../pictures/pxArt.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.registration #headingSmall {
+    display: none;
+}
+
+.registration #heading {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.registration a {
+    text-decoration: none;
+    background-color: rgba(0, 0, 0, 0.7);
+    border: 8px solid black;
+}
+
+.registration h1 {
+    margin: 0;
+    text-align: right;
+    font-family: 'Bungee Shade', cursive;
+    font-size: 25px;
+    color: black;
+    color: gold;
+}
+
+.registration form {
+    margin-top: 100px;
+    margin-left: 15%;
+    width: 65%;
+    height: 420px;
+    background-color: rgba(255, 217, 0, 0.9);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border: 8px solid black;
+    border-radius: 30px;
+}
+
+.registration .errors {
+    font-family: 'Bungee Inline', serif;
+    font-size: 13px;
+    list-style-type: none;
+}
+
+.registration .errors p {
+    font-size: 14.5px;
+    color: #DC042C;
+}
+
+/* .registration .errors ul {
+    list-style-type: none;
+} */
+
+.registration section {
+    display: flex;
+    flex-direction: column;
+}
+
+.registration #inputs {
+    margin-top: 60px;
+    width: 40%;
+    height: 80%;
+}
+
+.registration input {
+    margin-top: 18px;
+    background-color: rgb(255,255,255,0.6);
+    font-family: 'Bungee Inline', serif;
+    font-size: 16px;
+    text-align: left;
+    border: none;
+    box-shadow: 0 0.2em 0.2em -0.1em rgb(0,0,0,0.1);
+}
+
+.registration input:nth-of-type(1) {
+    margin-top: 4%;
+}
+
+.registration input:nth-of-type(4) {
+    margin-bottom: 4%;
+}
+
+.registration #showPassword {
+    margin-top: 1%;
+    width: 14px;
+}
+
+.registration label {
+    font-family: 'Bungee Inline', serif;
+}
+
+.registration button {
+    margin-top: 70%;
+    margin-right: 15%;
+    background: none;
+    color: black;
+    border: 2px solid;
+    border-radius: 90px;
+    padding: 3px 6px;
+    font-size: 20px;
+    text-align: center;
+    height: 70px;
+    width: 210px;
+    font-family: 'Bungee Inline', serif;
+    transition: background-color 0.2s, color 0.2s, border-color 0.2s, /*box-shadow 0.2s,*/ transform 0.2s;
+}
+
+.registration img {
+    position: relative;
+    top: 20%;
+    right: 0;
+}
+
+.registration .right button {
+    color: gold;
+}
+
+.registration .right a {
+    color: gold;
+}
+.registration .right button:hover {
+    background-color: gold;
+}
+
+.registration .right a:hover {
+    color: black;
+}
+
+.registration button:hover {
+    border-color: gold;
+    background-color: black;
+    color: gold;
+    transform: translateX(0.25em);
+    cursor: pointer;
+}
+
+@media (max-width: 1400px) {
+    .registration button {
+        text-align: center;
+    }
+}
+
+@media (max-width: 1100px) {
+    .registration h1 {
+        font-size: 2.3vw;
+    }
+
+    .registration form {
+        flex-direction: column;
+    }
+
+    .registration #button {
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    .registration button {
+        margin: 0;
+        margin-bottom: 15px;
+    }
+
+    .registration input {
+        width: 82%;
+    }
+
+    .registration #inputs {
+        margin-top: 6px;
+        margin-left: 20%;
+        width: 80%;
+        height: 80%;
+    }
+}
+
+@media (max-width: 800px) {
+    .registration h1 {
+        font-size: 20px;
+    }
+
+    .registration #heading {
+        display: none;
+    }
+
+    .registration #headingSmall {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .registration form {
+        margin-top: 40px;
+    }
+
+    .registration label {
+        font-size: 15px;
+    }
+}
+
+/* LOGGING IN STYLES */
+
+#logginginBody {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: no-repeat url(pictures/nasa.png);
+    background-size: cover;
+    background-position: 5%;
+    background-attachment: fixed;
+}
+
+.loggingin #headingSmall {
+    display: none;
+}
+
+.loggingin #heading {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.loggingin a {
+    text-decoration: none;
+    background-color: rgba(0, 0, 0, 0.7);
+    border: 8px solid black;
+}
+
+.loggingin h1 {
+    margin: 0;
+    text-align: right;
+    font-family: 'Bungee Shade', cursive;
+    font-size: 25px;
+    color: black;
+    color: gold;
+}
+
+.loggingin form {
+    margin-top: 100px;
+    margin-left: 15%;
+    width: 65%;
+    height: 400px;
+    background-color: rgba(255, 217, 0, 0.9);
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    border: 8px solid black;
+    border-radius: 30px;
+}
+
+.loggingin section {
+    display: flex;
+    flex-direction: column;
+}
+
+.loggingin #inputs {
+    margin-top: 20px;
+    width: 70%;
+    height: 50%;
+}
+
+.loggingin input {
+    margin-top: 20px;
+    margin-left: 35%;
+    background-color: rgb(255, 255, 255, 0.6);
+    width: 80%;
+    font-family: 'Bungee Inline', serif;
+    font-size: 1rem;
+    text-align: left;
+    border: none;
+    box-shadow: 0 0.2em 0.2em -0.1em rgb(0, 0, 0, 0.1);
+}
+
+.loggingin #rememberme {
+    margin: 0;
+    width: 14px;
+}
+
+.loggingin label:nth-of-type(3) {
+    margin: 0;
+}
+
+.loggingin .checkbox {
+    width: 100%;
+    height: 10%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.loggingin #showPassword {
+    margin-top: 1%;
+    margin-left: 35%;
+    width: 14px;
+}
+
+.loggingin label {
+    font-family: 'Bungee Inline', serif;
+}
+
+.loggingin #button {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.loggingin button {
+    margin-top: 4%;
+    margin-bottom: 4%;
+    background: none;
+    color: black;
+    border: 2px solid;
+    border-radius: 90px;
+    padding: 0.5em 1em;
+    font-size: 1.05em;
+    text-align: left;
+    width: 195px;
+    font-family: 'Bungee Inline', serif;
+    transition: background-color 0.2s, color 0.2s, border-color 0.2s,
+        transform 0.2s;
+}
+
+.loggingin img {
+    position: relative;
+    top: 20%;
+    right: 0;
+}
+
+.loggingin button:hover {
+    border-color: gold;
+    background-color: black;
+    color: gold;
+    transform: translateX(0.25em);
+    cursor: pointer;
+}
+
+.loggingin button a {
+    font-family: 'Bungee Inline', cursive;
+    color: black;
+    text-decoration: none;
+    width: 1em;
+    height: 2em;
+    padding: 1rem 2rem;
+    transition: color 0.2s;
+}
+
+.loggingin button a:hover {
+    color: gold;
+}
+
+@media (max-width: 1100px) {
+    .loggingin h1 {
+        font-size: 2.3vw;
+    }
+}
+
+@media (max-width: 800px) {
+    .loggingin h1 {
+        font-size: 20px;
+    }
+
+    .loggingin #heading {
+        display: none;
+    }
+
+    .loggingin #headingSmall {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .loggingin form {
+        margin-top: 40px;
+    }
+
+    .loggingin label {
+        font-size: 15px;
+    }
+}
