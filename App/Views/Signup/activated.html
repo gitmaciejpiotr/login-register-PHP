@@ -1,11 +1,30 @@
-{% extends "base.html" %}
+{% extends "base2.html" %}
 
 {% block title %}Sign up{% endblock %}
 
 {% block body %}
 
-    <h1>Sign up</h1>
+<body id="activatedBody">
+    <div class="activated">
+        <div id="heading">
+            <a href="/">
+                <h1>B &nbsp; U &nbsp; D &nbsp; Ż &nbsp; E &nbsp; T &nbsp; &nbsp; &nbsp; &nbsp; O &nbsp; S &nbsp; O
+                    &nbsp; B
+                    &nbsp; I &nbsp; S &nbsp; T &nbsp; Y</h1>
+            </a>
+        </div>
 
-    <p>Success! Your account is now active. You can now <a href="/login">log in</a>.</p>
+        <div id="headingSmall">
+            <a href="/">
+                <h1>&nbsp; &nbsp; B &nbsp; U &nbsp; D &nbsp; Ż &nbsp; E &nbsp; T &nbsp; &nbsp;</h1>
+                <h1>O &nbsp; S &nbsp; O &nbsp; B &nbsp; I &nbsp; S &nbsp; T &nbsp; Y</h1>
+            </a>
+        </div>
 
+
+        <div class="activatedText">
+            <p><span id="firstWord">Zadokowałeś!</span></br> Konto jest już aktywne. Możesz teraz się &nbsp;&nbsp; <a href="/login">zalogować</a>.</p>
+        </div>
+
+    </div>
 {% endblock %}

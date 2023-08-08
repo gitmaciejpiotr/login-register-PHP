@@ -1,16 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
+{% extends 'base2.html' %}
 
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Logging In Menu</title>
-    <link rel="stylesheet" href="/css/mainMenu.css">
-    <link href="https://fonts.googleapis.com/css2?family=Bungee+Inline&family=Bungee+Shade&display=swap"
-        rel="stylesheet">
-</head>
+{% block title %}Login{% endblock %}
 
+{% block body %}
 <body id="logginginBody">
     <div class="loggingin">
         <div id="heading">
@@ -37,16 +29,22 @@
             </section>
     
             <div class="checkbox">
-                <input type="checkbox" id="rememberme" name="rememberme" checked>
+                <input type="checkbox" id="rememberme" name="remember_me" {% if remember_me %} checked="checked"{% endif %}>
                 <label for="rememberme">&nbsp;&nbsp;Zapamiętaj mnie</label>
             </div>
     
             <div id="button">
-                <button>ZROBIONE!&nbsp;<img src="pictures/finger-png-43096.png" alt="" width="50" height="35"></button>
+                <button>ZROBIONE!&nbsp;<img src="../pictures/finger-png-43096.png" alt="" width="50" height="35"></button>
             </div>
+            <div id="passwordForgot">
+                <p>Psst... Nie pamiętasz hasła?</br>
+                    Kliknij <a href="/password/forgot">TUTAJ</a></p>
+            </div>
+           
         </form>
     </div>
-
+{% endblock %}
+{% block footer %}
     <script>
         function myFunction() {
             var x = document.getElementById("myInput");
@@ -57,7 +55,4 @@
             }
         }
     </script>
-
-</body>
-
-</html>
+{% endblock %}
