@@ -1,11 +1,31 @@
-{% extends "base.html" %}
+{% extends 'base2.html' %}
 
 {% block title %}Forgot password{% endblock %}
 
 {% block body %}
 
-    <h1>Password reset successfully</h1>
+<body id="logginginBody">
+    <div class="loggingin">
+        <div id="heading">
+            <a href="/">
+                <h1>B &nbsp; U &nbsp; D &nbsp; Ż &nbsp; E &nbsp; T &nbsp; &nbsp; &nbsp; &nbsp; O &nbsp; S &nbsp; O
+                    &nbsp; B &nbsp; I &nbsp; S &nbsp; T &nbsp; Y</h1>
+            </a>
+        </div>
 
-    <p>You can now <a href="/login">login</a>.</p>
+        <div id="headingSmall">
+            <a href="/">
+                <h1>&nbsp; &nbsp; B &nbsp; U &nbsp; D &nbsp; Ż &nbsp; E &nbsp; T &nbsp; &nbsp;</h1>
+                <h1>O &nbsp; S &nbsp; O &nbsp; B &nbsp; I &nbsp; S &nbsp; T &nbsp; Y</h1>
+            </a>
+        </div>
 
-{% endblock %}
+        <form method="post" id="formPasswordReset" action="/password/reset-password">
+            <section id="passwordResetSuccessSection">
+                <p>Uff... <span>Sukces!!!</span></p>
+                <p>Możesz się teraz <a href="/login">zalogować</a>.</p>
+                <img src="/css/pictures/gagarin.png" alt="" width="200" height="200">
+            </section>
+        </form>
+    </div>
+    {% endblock %}

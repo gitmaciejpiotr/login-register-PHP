@@ -1,64 +1,90 @@
-{% extends 'base.html' %}
+{% extends 'base2.html' %}
 
 {% block title %}Reset password{% endblock %}
 
-{% block footer %}
-    <script src="/js/hideShowPassword.min.js"></script>
+{% block body %}
+
+<body id="logginginBody">
+    <div class="loggingin">
+        <div id="heading">
+            <a href="/">
+                <h1>B &nbsp; U &nbsp; D &nbsp; Ż &nbsp; E &nbsp; T &nbsp; &nbsp; &nbsp; &nbsp; O &nbsp; S &nbsp; O
+                    &nbsp; B &nbsp; I &nbsp; S &nbsp; T &nbsp; Y</h1>
+            </a>
+        </div>
+
+        <div id="headingSmall">
+            <a href="/">
+                <h1>&nbsp; &nbsp; B &nbsp; U &nbsp; D &nbsp; Ż &nbsp; E &nbsp; T &nbsp; &nbsp;</h1>
+                <h1>O &nbsp; S &nbsp; O &nbsp; B &nbsp; I &nbsp; S &nbsp; T &nbsp; Y</h1>
+            </a>
+        </div>
+
+        <form method="post" id="formPasswordReset" action="/password/reset-password">
+            {% if user.errors is not empty %}
+            <div class="errors">
+                <p>Coś poszło nie tak:</p>
+                <ol>
+                    {% for error in user.errors %}
+                    <li>{{ error }}</li>
+                    {% endfor %}
+                </ol>
+            </div>
+            {% endif %}
+
+
+            <input type="hidden" name="token" value="{{ token }}" />
+
+            <section id="inputs">
+                <div>
+                    <input id="myInput" type="password" name="password" placeholder="Wpisz nowe hasło" class="form-control" required>
+                    <input id="myInput2" type="password" name="password2" placeholder="Powtórz hasło" class="form-control" required>
+                    <input id="showPassword" type="checkbox" onclick="myFunction()">
+                    <label for="showPassword">Pokaż hasło</label>
+                </div>
+            </section>
+
+            <div id="button">
+                <button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RESET!&nbsp;&nbsp;<img src="/pictures/finger-png-43096.png" alt="" width="50"
+                        height="35"></button>
+            </div>
+        </form>
+    </div>
+    {% endblock %}
+    {% block footer %}
+    <script>
+        function myFunction() {
+            var x = document.getElementById("myInput");
+            if (x.type === "password") {
+                x.type = "text";
+            } else {
+                x.type = "password";
+            }
+            var y = document.getElementById("myInput2");
+            if (y.type === "password") {
+                y.type = "text";
+            } else {
+                y.type = "password";
+            }
+        }
+    </script>
     <script src="/js/app.js"></script>
 
     <script>
-        $(document).ready(function() {
+        // $(document).ready(function() {
 
-            /**
-             * Validate the form
-             */
-            $('#formPassword').validate({
-                rules: {
-                    password: {
-                        required: true,
-                        minlength: 6,
-                        validPassword: true
-                    }
-                }
-            });
-
-
-            /**
-              * Show password toggle button
-              */
-            $('#inputPassword').hideShowPassword({
-                show: false,
-                innerToggle: 'focus'
-            });
-        });
+        //     /**
+        //      * Validate the form
+        //      */
+        //     $('#formPassword').validate({
+        //         rules: {
+        //             password: {
+        //                 required: true,
+        //                 minlength: 8,
+        //                 validPassword: true
+        //             }
+        //         }
+        //     });
+        // });
     </script>
-
-{% endblock %}
-
-{% block body %}
-
-    <h1>Reset password</h1>
-
-    {% if user.errors is not empty %}
-        <p>Errors:</p>
-        <ul>
-            {% for error in user.errors %}
-                <li>{{ error }}</li>
-            {% endfor %}
-        </ul>
-    {% endif %}
-
-    <form method="post" id="formPassword" action="/password/reset-password">
-
-        <input type="hidden" name="token" value="{{ token }}" />
-
-        <div class="form-group">
-            <label for="inputPassword">Password</label>
-            <input type="password" id="inputPassword" name="password" placeholder="Password" required class="form-control" />
-        </div>
-
-        <button type="submit" class="btn btn-default">Reset password</button>
-
-    </form>
-
-{% endblock %}
+    {% endblock %}

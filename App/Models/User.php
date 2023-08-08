@@ -24,13 +24,13 @@ class User extends \Core\Model
 
     public $errors = [];
     public $id;
-    protected $name;
+    public $name;
     protected $email;
     protected $password;
     protected $password2;
     protected $activation_token;
-    protected $remember_token;
-    protected $expiry_timestamp;
+    public $remember_token;
+    public $expiry_timestamp;
     protected $password_reset_token;
 
 
@@ -118,6 +118,7 @@ class User extends \Core\Model
             }
 
             if($this->password !== $this->password2) {
+
                 $this->errors[] = 'Powtórz hasło (dokładnie)';
             }
 
@@ -346,9 +347,10 @@ class User extends \Core\Model
      *
      * @return boolean  True if the password was updated successfully, false otherwise
      */
-    public function resetPassword($password)
+    public function resetPassword($password, $password2)
     {
         $this->password = $password;
+        $this->password2 = $password2;
 
         $this->validate();
 

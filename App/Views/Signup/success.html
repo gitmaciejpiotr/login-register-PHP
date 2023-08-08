@@ -1,13 +1,34 @@
-{% extends 'base.html' %}
+{% extends 'base2.html' %}
 
 {% block title %}Sign up{% endblock %}
 
 {% block body %}
 
-    <h1>Sign up</h1>
+<body id="successInfoBody">
+    <div class="successInfo">
+        <div id="heading">
+            <a href="/">
+                <h1>B &nbsp; U &nbsp; D &nbsp; Ż &nbsp; E &nbsp; T &nbsp; &nbsp; &nbsp; &nbsp; O &nbsp; S &nbsp; O
+                    &nbsp; B
+                    &nbsp; I &nbsp; S &nbsp; T &nbsp; Y</h1>
+            </a>
+        </div>
 
-    <p>Success! Thank you for signing up.</p>
+        <div id="headingSmall">
+            <a href="/">
+                <h1>&nbsp; &nbsp; B &nbsp; U &nbsp; D &nbsp; Ż &nbsp; E &nbsp; T &nbsp; &nbsp;</h1>
+                <h1>O &nbsp; S &nbsp; O &nbsp; B &nbsp; I &nbsp; S &nbsp; T &nbsp; Y</h1>
+            </a>
+        </div>
 
-    <p>Please check your email to activate your account.</p>
 
+        <div class="successInfoText">
+            <p>
+                <span id="firstTextLine"><span id="firstWords">Udało się!</span>&nbsp;&nbsp;&nbsp;&nbsp; Należysz już do
+                    grona konciarzy :></span></br>
+                Sprawdź maila i kliknij w link, aby potwierdzić.
+            </p>
+        </div>
+
+    </div>
 {% endblock %}

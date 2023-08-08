@@ -1,11 +1,33 @@
-{% extends 'base.html' %}
+{% extends 'base2.html' %}
 
 {% block title %}Forgot password{% endblock %}
 
 {% block body %}
 
-    <h1>Request password reset</h1>
+<body id="logginginBody">
+    <div class="loggingin">
+        <div id="heading">
+            <a href="/">
+                <h1>B &nbsp; U &nbsp; D &nbsp; Ż &nbsp; E &nbsp; T &nbsp; &nbsp; &nbsp; &nbsp; O &nbsp; S &nbsp; O
+                    &nbsp; B &nbsp; I &nbsp; S &nbsp; T &nbsp; Y</h1>
+            </a>
+        </div>
 
-    <p>Password reset link invalid or expired, please click <a href="/password/forgot">here</a> to request another one.</p>
+        <div id="headingSmall">
+            <a href="/">
+                <h1>&nbsp; &nbsp; B &nbsp; U &nbsp; D &nbsp; Ż &nbsp; E &nbsp; T &nbsp; &nbsp;</h1>
+                <h1>O &nbsp; S &nbsp; O &nbsp; B &nbsp; I &nbsp; S &nbsp; T &nbsp; Y</h1>
+            </a>
+        </div>
 
-{% endblock %}
+        <form method="post" id="formPasswordReset" action="/password/reset-password">
+            <section id="passwordResetExpiredSection">
+                <p><span>Rozczarowanie</span></p>
+                <p>Link do resetowania się zepsuł, albo przeterminował :/</p>
+                <p>Kliknij <a href="/password/forgot">tu</a>, żeby odebrać kolejny</p>
+            </section>
+            <img src="/css/pictures/man_with_problem.png" alt="" width="200" height="280">
+
+        </form>
+    </div>
+    {% endblock %}

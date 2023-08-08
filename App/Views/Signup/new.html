@@ -3,6 +3,7 @@
 {% block title %}SignUp{% endblock %}
 
 {% block body %}
+
 <body id="registrationBody">
     <div class="registration">
         <div id="heading">
@@ -20,7 +21,11 @@
             </a>
         </div>
 
+        {% if user.errors is not empty %}
+        <form method="post" action="/signup/create" id="formSignupBigger">
+        {% else %}
         <form method="post" action="/signup/create" id="formSignup">
+        {% endif %}
             {% if user.errors is not empty %}
             <div class="errors">
                 <p>Coś poszło nie tak:</p>
@@ -32,44 +37,48 @@
             </div>
             {% endif %}
             <section id="inputs">
-                <input id="firstName" type="text" name="name" placeholder="Imię" autofocus value="{{ user.name }}" class="form-control" required>
-                <input id="email" type="email" name="email" placeholder="Email" value="{{ user.email }}" class="form-control" required>
-                <input id="myInput" type="password" name="password" placeholder="Hasło (min. 8 znaków)" class="form-control" required>
-                <input id="myInput2" type="password" name="password2" placeholder="Powtórz hasło" class="form-control" required>
+                <input id="firstName" type="text" name="name" placeholder="Imię" autofocus value="{{ user.name }}"
+                    class="form-control" required>
+                <input id="email" type="email" name="email" placeholder="Email" value="{{ user.email }}"
+                    class="form-control" required>
+                <input id="myInput" type="password" name="password" placeholder="Hasło (min. 8 znaków)"
+                    class="form-control" required>
+                <input id="myInput2" type="password" name="password2" placeholder="Powtórz hasło" class="form-control"
+                    required>
                 <div>
                     <input id="showPassword" type="checkbox" onclick="myFunction()">
                     <label for="showPassword">Pokaż hasło</label>
                 </div>
             </section>
-
+            
             <div id="button">
                 <button>ZROBIONE!&nbsp;<img src="/css/pictures/finger-png-43096.png" alt="" width="50"
                         height="35"></button>
             </div>
         </form>
     </div>
-{% endblock %}
-{% block footer %}
-<script>
-    function myFunction() {
-        var x = document.getElementById("myInput");
-        if (x.type === "password") {
-            x.type = "text";
-        } else {
-            x.type = "password";
+    {% endblock %}
+    {% block footer %}
+    <script>
+        function myFunction() {
+            var x = document.getElementById("myInput");
+            if (x.type === "password") {
+                x.type = "text";
+            } else {
+                x.type = "password";
+            }
+            var y = document.getElementById("myInput2");
+            if (y.type === "password") {
+                y.type = "text";
+            } else {
+                y.type = "password";
+            }
         }
-        var y = document.getElementById("myInput2");
-        if (y.type === "password") {
-            y.type = "text";
-        } else {
-            y.type = "password";
-        }
-    }
-</script>
-<!-- <script src="/js/hideShowPassword.min.js"></script> -->
-<script src="/js/app.js"></script>
+    </script>
+    <!-- <script src="/js/hideShowPassword.min.js"></script> -->
+    <script src="/js/app.js"></script>
 
-<!-- <script>
+    <!-- <script>
     $(document).ready(function () {
 
         /**
@@ -106,4 +115,4 @@
         });
     });
 </script> -->
-{% endblock %}
+    {% endblock %}

@@ -1,11 +1,32 @@
-{% extends "base.html" %}
+{% extends 'base2.html' %}
 
-{% block title %}Forgot password{% endblock %}
+{% block title %}Reset password{% endblock %}
 
 {% block body %}
 
-    <h1>Request password reset</h1>
+<body id="logginginBody">
+    <div class="loggingin">
+        <div id="heading">
+            <a href="/">
+                <h1>B &nbsp; U &nbsp; D &nbsp; Ż &nbsp; E &nbsp; T &nbsp; &nbsp; &nbsp; &nbsp; O &nbsp; S &nbsp; O
+                    &nbsp; B &nbsp; I &nbsp; S &nbsp; T &nbsp; Y</h1>
+            </a>
+        </div>
 
-    <p>Please check your email.</p>
+        <div id="headingSmall">
+            <a href="/">
+                <h1>&nbsp; &nbsp; B &nbsp; U &nbsp; D &nbsp; Ż &nbsp; E &nbsp; T &nbsp; &nbsp;</h1>
+                <h1>O &nbsp; S &nbsp; O &nbsp; B &nbsp; I &nbsp; S &nbsp; T &nbsp; Y</h1>
+            </a>
+        </div>
 
-{% endblock %}
+        <form method="post" action="/password/request-reset">
+
+            <section id="resetRequestSection">
+                <p>Sprawdź maila :>>></p>
+                <img src="/css/pictures/postman.png" alt="" width="200" height="200">
+            </section>
+
+        </form>
+    </div>
+    {% endblock %}
