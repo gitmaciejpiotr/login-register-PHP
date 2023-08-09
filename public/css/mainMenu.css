@@ -3,6 +3,7 @@
 body {
     background-color: gold;
     display: flex;
+    flex-direction: row;
     justify-content: center;
     background: no-repeat url(pictures/galaxy.png);
     background-size: cover;
@@ -15,6 +16,12 @@ body {
 
 #heading h1 {
     font-size: 20px;
+}
+
+#welcomeHeading {
+    position: fixed;
+    top: 0;
+    right: 40%;
 }
 
 .pie-chart h2 {
@@ -1146,7 +1153,7 @@ footer {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background: no-repeat url(../pictures/pxArt.png);
+    background: no-repeat url(/css/pictures/pxArt.png);
     background-size: cover;
     background-attachment: fixed;
 }
@@ -1367,7 +1374,7 @@ footer {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background: no-repeat url(../pictures/pxArt.png);
+    background: no-repeat url(/css/pictures/pxArt.png);
     background-size: cover;
     background-attachment: fixed;
 }
@@ -1412,6 +1419,10 @@ footer {
     border-radius: 30px;
 }
 
+.successInfoText img {
+    margin-left: 35%;
+}
+
 .successInfo p {
     margin-left: 25%;
     font-family: 'Bungee Inline', serif;
@@ -1438,7 +1449,7 @@ footer {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background: no-repeat url(../pictures/pxArt.png);
+    background: no-repeat url(/css/pictures/pxArt.png);
     background-size: cover;
     background-attachment: fixed;
 }
@@ -1483,6 +1494,10 @@ footer {
     border-radius: 30px;
 }
 
+#vintage-dancers {
+    margin-left: 37%;
+}
+
 .activatedText p {
     margin-left: 25%;
     font-family: 'Bungee Inline', serif;
@@ -1491,7 +1506,7 @@ footer {
 
 .activatedText #firstWord {
     font-size: 30px;
-    margin-left: 20%;
+    margin-left: 6%;
     background-color: transparent;
     color: rgb(1, 172, 1);
 }
@@ -1504,7 +1519,7 @@ footer {
 }
 
 .activatedText a:hover,#passwordForgot a:hover, #passwordResetSuccessSection a:hover,
-#passwordResetExpiredSection a:hover {
+#tokenResetExpiredSection a:hover {
     -webkit-animation: rainbow 1s infinite;
     -ms-animation: rainbow 1s infinite;
     -o-animation: rainbow 1s infinite;
@@ -1991,41 +2006,81 @@ footer {
     flex-direction: column;
 }
 
-#passwordResetSuccessSection, #passwordResetExpiredSection {
+/* TOKEN EXPIRED STYLES */
+
+#tokenExpiredText {
+    flex-direction: row;
+    width: 50%;
+    margin-left: 23%;
+}
+
+
+#passwordResetSuccessSection, #tokenResetExpiredSection {
     margin-top: 3%;
     font-family: 'Bungee Inline', serif;
     font-size: 13px;
     justify-content:flex-start;
 }
 
-#passwordResetExpiredSection {
-    margin-top: 1%;
+#tokenResetExpiredSection {
+    margin-top: 10%;
 }
 
-#passwordResetSuccessSection p, #passwordResetExpiredSection p {
+#passwordResetSuccessSection p, #tokenResetExpiredSection p {
     margin: 0;
 }
 
-#passwordResetSuccessSection a, #passwordResetExpiredSection a {
+#manWithProblem {
+    margin-top: 12%;
+}
+
+#passwordResetSuccessSection a, #tokenResetExpiredSection a {
     background-color: transparent;
     border: none;
     /* color: #019fbb;
     font-size: 16px; */
 }
 
-#passwordResetSuccessSection span {
-    font-size: 20px;
-    color: rgb(0, 172, 9);
-    background-color: transparent;
-}
-
-#passwordResetExpiredSection span {
-    font-size: 20px;
+#tokenResetExpiredSection span {
+    font-size: 26px;
     color: rgb(165, 0, 165);
     background-color: transparent;
 }
 
-#passwordResetExpiredSection a {
+#tokenResetExpiredSection a {
     color: rgb(209, 0, 0);
     font-size: 16px;
+}
+
+/* ERROR SITE STYLES */
+
+#errorBody {
+    background: no-repeat url(./pictures/universe.png);
+}
+
+#errorBody a {
+    border-radius: 40%;
+}
+
+#errorBody .activatedText {
+    width: 130%;
+    margin-left: -17%;
+    background-color: rgba(255, 217, 0, 0.7);
+    flex-direction: row;
+}
+
+#errorBody p {
+    margin-top: 10%;
+    margin-left: 5%;
+}
+
+#errorBody img {
+    margin-top: 24.75%;
+    margin-right: 3%;
+}
+
+#errorBody #errorMessageHead {
+    color: red;
+    background-color: transparent;
+    font-size: 20px;
 }

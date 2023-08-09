@@ -20,14 +20,14 @@
             </a>
         </div>
 
-        <form method="post" id="formPasswordReset" action="/password/reset-password">
-            <section id="passwordResetExpiredSection">
+        <div class="activatedText" id="tokenExpiredText">
+            <section id="tokenResetExpiredSection">
                 <p><span>Rozczarowanie</span></p>
-                <p>Link do resetowania się zepsuł, albo przeterminował :/</p>
-                <p>Kliknij <a href="/password/forgot">tu</a>, żeby odebrać kolejny</p>
+                <p>Link się zepsuł, albo przeterminował :/</p>
+                <p>Kliknij <a href="/">tu</a>, zaczniemy od początku ;)</p>
             </section>
-            <img src="/css/pictures/man_with_problem.png" alt="" width="200" height="280">
+            <img src="/css/pictures/man_with_problem.png" alt="" width="200" height="280" id="manWithProblem">
 
-        </form>
+        </div>
     </div>
     {% endblock %}

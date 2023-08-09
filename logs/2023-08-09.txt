@@ -1,0 +1,1046 @@
+[09-Aug-2023 14:01:41 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:07:27 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:09:56 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:10:14 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:11:29 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:11:33 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:11:33 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:11:34 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:11:44 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:12:51 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:12:59 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:13:00 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:13:01 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:13:01 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:13:01 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:13:01 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:13:04 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:13:04 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:13:05 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:13:05 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:13:05 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:13:05 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:13:06 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:13:06 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:13:06 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:13:06 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:13:15 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:13:15 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('pictures/univer...')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:13:21 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:13:21 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('pictures/univer...')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:13:21 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:13:22 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:13:22 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:13:22 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:13:29 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:13:29 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('pictures/univer...')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:13:31 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:13:32 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:13:32 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:13:32 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:13:32 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:13:32 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:13:43 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:13:44 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('pictures/univer...')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:14:00 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:14:09 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:14:10 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:14:10 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:15:45 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:15:50 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:15:59 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:16:13 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:16:20 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:16:59 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:17:22 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:17:51 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:18:17 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:20:44 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:20:54 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:21:03 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:21:17 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:21:24 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:21:33 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:21:44 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:21:52 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:23:51 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:23:54 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:23:54 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:23:54 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:23:54 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:23:55 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:24:13 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:24:15 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:24:18 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:24:19 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:24:25 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:24:25 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:24:49 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:24:50 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:24:59 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:25:01 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:25:01 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:25:01 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:25:01 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:27:21 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:27:44 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:28:04 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:28:12 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:28:23 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:28:36 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:28:52 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:29:01 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:31:37 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:48:48 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:48:48 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('pictures/alien....')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:48:57 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:48:57 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('pictures/alien....')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:49:26 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:49:26 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('public/css/pict...')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:50:20 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:50:54 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 14:51:05 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 15:32:26 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 16:23:23 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 16:23:46 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 16:24:15 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 16:24:23 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 16:24:53 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 16:25:14 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 16:25:22 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 16:25:28 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 16:25:34 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 16:25:47 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 16:26:33 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('pictures/finger...')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 16:33:31 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 16:35:13 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 16:35:33 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 16:36:19 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 16:36:47 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 16:36:50 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 16:36:51 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 16:36:51 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 16:36:51 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 16:36:57 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 16:36:58 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 16:37:19 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 16:37:23 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 16:37:23 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 16:37:23 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 16:37:23 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 16:37:24 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 16:39:49 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 16:41:01 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 16:41:33 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 16:41:53 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 16:42:09 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 16:42:36 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 16:42:44 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 16:42:50 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 16:43:43 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 16:44:01 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 16:44:41 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 16:45:32 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logi')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 16:46:08 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('pictures/finger...')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 16:58:02 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('lm')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 16:59:05 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('m')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 17:06:37 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 17:07:53 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[09-Aug-2023 17:09:05 Europe/Berlin] Uncaught exception: 'Twig\Error\SyntaxError' with message 'Unexpected "else" tag (expecting closing tag for the "block" tag defined near line 6).'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\TokenParser\BlockTokenParser.php(47): Twig\Parser->subparse(Array, true)
+#1 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(170): Twig\TokenParser\BlockTokenParser->parse(Object(Twig\Token))
+#2 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(83): Twig\Parser->subparse(NULL, false)
+#3 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(491): Twig\Parser->parse(Object(Twig\TokenStream))
+#4 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(519): Twig\Environment->parse(Object(Twig\TokenStream))
+#5 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(351): Twig\Environment->compileSource(Object(Twig\Source))
+#6 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(312): Twig\Environment->loadTemplate('__TwigTemplate_...', 'Home/index.html')
+#7 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('Home/index.html')
+#8 C:\xampp3\htdocs\mvc login\Core\View.php(70): Twig\Environment->render('Home/index.html', Array)
+#9 C:\xampp3\htdocs\mvc login\Core\View.php(44): Core\View::getTemplate('Home/index.html', Array)
+#10 C:\xampp3\htdocs\mvc login\App\Controllers\Home.php(23): Core\View::renderTemplate('Home/index.html')
+#11 [internal function]: App\Controllers\Home->indexAction()
+#12 C:\xampp3\htdocs\mvc login\Core\Controller.php(51): call_user_func_array(Array, Array)
+#13 C:\xampp3\htdocs\mvc login\Core\Router.php(121): Core\Controller->__call('index', Array)
+#14 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('')
+#15 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\App\Views\Home\index.html' on line 957
+[09-Aug-2023 17:09:20 Europe/Berlin] Uncaught exception: 'Twig\Error\SyntaxError' with message 'Unexpected "else" tag (expecting closing tag for the "block" tag defined near line 6).'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\TokenParser\BlockTokenParser.php(47): Twig\Parser->subparse(Array, true)
+#1 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(170): Twig\TokenParser\BlockTokenParser->parse(Object(Twig\Token))
+#2 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(83): Twig\Parser->subparse(NULL, false)
+#3 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(491): Twig\Parser->parse(Object(Twig\TokenStream))
+#4 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(519): Twig\Environment->parse(Object(Twig\TokenStream))
+#5 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(351): Twig\Environment->compileSource(Object(Twig\Source))
+#6 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(312): Twig\Environment->loadTemplate('__TwigTemplate_...', 'Home/index.html')
+#7 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('Home/index.html')
+#8 C:\xampp3\htdocs\mvc login\Core\View.php(70): Twig\Environment->render('Home/index.html', Array)
+#9 C:\xampp3\htdocs\mvc login\Core\View.php(44): Core\View::getTemplate('Home/index.html', Array)
+#10 C:\xampp3\htdocs\mvc login\App\Controllers\Home.php(23): Core\View::renderTemplate('Home/index.html')
+#11 [internal function]: App\Controllers\Home->indexAction()
+#12 C:\xampp3\htdocs\mvc login\Core\Controller.php(51): call_user_func_array(Array, Array)
+#13 C:\xampp3\htdocs\mvc login\Core\Router.php(121): Core\Controller->__call('index', Array)
+#14 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('')
+#15 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\App\Views\Home\index.html' on line 957
+[09-Aug-2023 17:09:25 Europe/Berlin] Uncaught exception: 'Twig\Error\SyntaxError' with message 'Unexpected "else" tag (expecting closing tag for the "block" tag defined near line 6).'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\TokenParser\BlockTokenParser.php(47): Twig\Parser->subparse(Array, true)
+#1 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(170): Twig\TokenParser\BlockTokenParser->parse(Object(Twig\Token))
+#2 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(83): Twig\Parser->subparse(NULL, false)
+#3 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(491): Twig\Parser->parse(Object(Twig\TokenStream))
+#4 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(519): Twig\Environment->parse(Object(Twig\TokenStream))
+#5 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(351): Twig\Environment->compileSource(Object(Twig\Source))
+#6 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(312): Twig\Environment->loadTemplate('__TwigTemplate_...', 'Home/index.html')
+#7 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('Home/index.html')
+#8 C:\xampp3\htdocs\mvc login\Core\View.php(70): Twig\Environment->render('Home/index.html', Array)
+#9 C:\xampp3\htdocs\mvc login\Core\View.php(44): Core\View::getTemplate('Home/index.html', Array)
+#10 C:\xampp3\htdocs\mvc login\App\Controllers\Home.php(23): Core\View::renderTemplate('Home/index.html')
+#11 [internal function]: App\Controllers\Home->indexAction()
+#12 C:\xampp3\htdocs\mvc login\Core\Controller.php(51): call_user_func_array(Array, Array)
+#13 C:\xampp3\htdocs\mvc login\Core\Router.php(121): Core\Controller->__call('index', Array)
+#14 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('')
+#15 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\App\Views\Home\index.html' on line 957
+[09-Aug-2023 17:09:25 Europe/Berlin] Uncaught exception: 'Twig\Error\SyntaxError' with message 'Unexpected "else" tag (expecting closing tag for the "block" tag defined near line 6).'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\TokenParser\BlockTokenParser.php(47): Twig\Parser->subparse(Array, true)
+#1 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(170): Twig\TokenParser\BlockTokenParser->parse(Object(Twig\Token))
+#2 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(83): Twig\Parser->subparse(NULL, false)
+#3 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(491): Twig\Parser->parse(Object(Twig\TokenStream))
+#4 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(519): Twig\Environment->parse(Object(Twig\TokenStream))
+#5 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(351): Twig\Environment->compileSource(Object(Twig\Source))
+#6 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(312): Twig\Environment->loadTemplate('__TwigTemplate_...', 'Home/index.html')
+#7 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('Home/index.html')
+#8 C:\xampp3\htdocs\mvc login\Core\View.php(70): Twig\Environment->render('Home/index.html', Array)
+#9 C:\xampp3\htdocs\mvc login\Core\View.php(44): Core\View::getTemplate('Home/index.html', Array)
+#10 C:\xampp3\htdocs\mvc login\App\Controllers\Home.php(23): Core\View::renderTemplate('Home/index.html')
+#11 [internal function]: App\Controllers\Home->indexAction()
+#12 C:\xampp3\htdocs\mvc login\Core\Controller.php(51): call_user_func_array(Array, Array)
+#13 C:\xampp3\htdocs\mvc login\Core\Router.php(121): Core\Controller->__call('index', Array)
+#14 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('')
+#15 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\App\Views\Home\index.html' on line 957
+[09-Aug-2023 17:09:37 Europe/Berlin] Uncaught exception: 'Twig\Error\SyntaxError' with message 'Unexpected "else" tag (expecting closing tag for the "block" tag defined near line 6).'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\TokenParser\BlockTokenParser.php(47): Twig\Parser->subparse(Array, true)
+#1 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(170): Twig\TokenParser\BlockTokenParser->parse(Object(Twig\Token))
+#2 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(83): Twig\Parser->subparse(NULL, false)
+#3 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(491): Twig\Parser->parse(Object(Twig\TokenStream))
+#4 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(519): Twig\Environment->parse(Object(Twig\TokenStream))
+#5 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(351): Twig\Environment->compileSource(Object(Twig\Source))
+#6 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(312): Twig\Environment->loadTemplate('__TwigTemplate_...', 'Home/index.html')
+#7 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('Home/index.html')
+#8 C:\xampp3\htdocs\mvc login\Core\View.php(70): Twig\Environment->render('Home/index.html', Array)
+#9 C:\xampp3\htdocs\mvc login\Core\View.php(44): Core\View::getTemplate('Home/index.html', Array)
+#10 C:\xampp3\htdocs\mvc login\App\Controllers\Home.php(23): Core\View::renderTemplate('Home/index.html')
+#11 [internal function]: App\Controllers\Home->indexAction()
+#12 C:\xampp3\htdocs\mvc login\Core\Controller.php(51): call_user_func_array(Array, Array)
+#13 C:\xampp3\htdocs\mvc login\Core\Router.php(121): Core\Controller->__call('index', Array)
+#14 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('')
+#15 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\App\Views\Home\index.html' on line 957
+[09-Aug-2023 17:09:41 Europe/Berlin] Uncaught exception: 'Twig\Error\SyntaxError' with message 'Unexpected "else" tag (expecting closing tag for the "block" tag defined near line 6).'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\TokenParser\BlockTokenParser.php(47): Twig\Parser->subparse(Array, true)
+#1 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(170): Twig\TokenParser\BlockTokenParser->parse(Object(Twig\Token))
+#2 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(83): Twig\Parser->subparse(NULL, false)
+#3 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(491): Twig\Parser->parse(Object(Twig\TokenStream))
+#4 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(519): Twig\Environment->parse(Object(Twig\TokenStream))
+#5 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(351): Twig\Environment->compileSource(Object(Twig\Source))
+#6 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(312): Twig\Environment->loadTemplate('__TwigTemplate_...', 'Home/index.html')
+#7 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('Home/index.html')
+#8 C:\xampp3\htdocs\mvc login\Core\View.php(70): Twig\Environment->render('Home/index.html', Array)
+#9 C:\xampp3\htdocs\mvc login\Core\View.php(44): Core\View::getTemplate('Home/index.html', Array)
+#10 C:\xampp3\htdocs\mvc login\App\Controllers\Home.php(23): Core\View::renderTemplate('Home/index.html')
+#11 [internal function]: App\Controllers\Home->indexAction()
+#12 C:\xampp3\htdocs\mvc login\Core\Controller.php(51): call_user_func_array(Array, Array)
+#13 C:\xampp3\htdocs\mvc login\Core\Router.php(121): Core\Controller->__call('index', Array)
+#14 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('')
+#15 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\App\Views\Home\index.html' on line 957
+[09-Aug-2023 17:09:57 Europe/Berlin] Uncaught exception: 'Twig\Error\SyntaxError' with message 'Unexpected "else" tag (expecting closing tag for the "block" tag defined near line 6).'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\TokenParser\BlockTokenParser.php(47): Twig\Parser->subparse(Array, true)
+#1 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(170): Twig\TokenParser\BlockTokenParser->parse(Object(Twig\Token))
+#2 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(83): Twig\Parser->subparse(NULL, false)
+#3 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(491): Twig\Parser->parse(Object(Twig\TokenStream))
+#4 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(519): Twig\Environment->parse(Object(Twig\TokenStream))
+#5 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(351): Twig\Environment->compileSource(Object(Twig\Source))
+#6 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(312): Twig\Environment->loadTemplate('__TwigTemplate_...', 'Home/index.html')
+#7 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('Home/index.html')
+#8 C:\xampp3\htdocs\mvc login\Core\View.php(70): Twig\Environment->render('Home/index.html', Array)
+#9 C:\xampp3\htdocs\mvc login\Core\View.php(44): Core\View::getTemplate('Home/index.html', Array)
+#10 C:\xampp3\htdocs\mvc login\App\Controllers\Home.php(23): Core\View::renderTemplate('Home/index.html')
+#11 [internal function]: App\Controllers\Home->indexAction()
+#12 C:\xampp3\htdocs\mvc login\Core\Controller.php(51): call_user_func_array(Array, Array)
+#13 C:\xampp3\htdocs\mvc login\Core\Router.php(121): Core\Controller->__call('index', Array)
+#14 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('')
+#15 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\App\Views\Home\index.html' on line 957
+[09-Aug-2023 17:09:59 Europe/Berlin] Uncaught exception: 'Twig\Error\SyntaxError' with message 'Unexpected "else" tag (expecting closing tag for the "block" tag defined near line 6).'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\TokenParser\BlockTokenParser.php(47): Twig\Parser->subparse(Array, true)
+#1 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(170): Twig\TokenParser\BlockTokenParser->parse(Object(Twig\Token))
+#2 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(83): Twig\Parser->subparse(NULL, false)
+#3 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(491): Twig\Parser->parse(Object(Twig\TokenStream))
+#4 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(519): Twig\Environment->parse(Object(Twig\TokenStream))
+#5 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(351): Twig\Environment->compileSource(Object(Twig\Source))
+#6 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(312): Twig\Environment->loadTemplate('__TwigTemplate_...', 'Home/index.html')
+#7 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('Home/index.html')
+#8 C:\xampp3\htdocs\mvc login\Core\View.php(70): Twig\Environment->render('Home/index.html', Array)
+#9 C:\xampp3\htdocs\mvc login\Core\View.php(44): Core\View::getTemplate('Home/index.html', Array)
+#10 C:\xampp3\htdocs\mvc login\App\Controllers\Home.php(23): Core\View::renderTemplate('Home/index.html')
+#11 [internal function]: App\Controllers\Home->indexAction()
+#12 C:\xampp3\htdocs\mvc login\Core\Controller.php(51): call_user_func_array(Array, Array)
+#13 C:\xampp3\htdocs\mvc login\Core\Router.php(121): Core\Controller->__call('index', Array)
+#14 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('')
+#15 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\App\Views\Home\index.html' on line 957
+[09-Aug-2023 17:10:00 Europe/Berlin] Uncaught exception: 'Twig\Error\SyntaxError' with message 'Unexpected "else" tag (expecting closing tag for the "block" tag defined near line 6).'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\TokenParser\BlockTokenParser.php(47): Twig\Parser->subparse(Array, true)
+#1 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(170): Twig\TokenParser\BlockTokenParser->parse(Object(Twig\Token))
+#2 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(83): Twig\Parser->subparse(NULL, false)
+#3 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(491): Twig\Parser->parse(Object(Twig\TokenStream))
+#4 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(519): Twig\Environment->parse(Object(Twig\TokenStream))
+#5 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(351): Twig\Environment->compileSource(Object(Twig\Source))
+#6 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(312): Twig\Environment->loadTemplate('__TwigTemplate_...', 'Home/index.html')
+#7 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('Home/index.html')
+#8 C:\xampp3\htdocs\mvc login\Core\View.php(70): Twig\Environment->render('Home/index.html', Array)
+#9 C:\xampp3\htdocs\mvc login\Core\View.php(44): Core\View::getTemplate('Home/index.html', Array)
+#10 C:\xampp3\htdocs\mvc login\App\Controllers\Home.php(23): Core\View::renderTemplate('Home/index.html')
+#11 [internal function]: App\Controllers\Home->indexAction()
+#12 C:\xampp3\htdocs\mvc login\Core\Controller.php(51): call_user_func_array(Array, Array)
+#13 C:\xampp3\htdocs\mvc login\Core\Router.php(121): Core\Controller->__call('index', Array)
+#14 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('')
+#15 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\App\Views\Home\index.html' on line 957
+[09-Aug-2023 17:10:01 Europe/Berlin] Uncaught exception: 'Twig\Error\SyntaxError' with message 'Unexpected "else" tag (expecting closing tag for the "block" tag defined near line 6).'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\TokenParser\BlockTokenParser.php(47): Twig\Parser->subparse(Array, true)
+#1 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(170): Twig\TokenParser\BlockTokenParser->parse(Object(Twig\Token))
+#2 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(83): Twig\Parser->subparse(NULL, false)
+#3 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(491): Twig\Parser->parse(Object(Twig\TokenStream))
+#4 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(519): Twig\Environment->parse(Object(Twig\TokenStream))
+#5 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(351): Twig\Environment->compileSource(Object(Twig\Source))
+#6 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(312): Twig\Environment->loadTemplate('__TwigTemplate_...', 'Home/index.html')
+#7 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('Home/index.html')
+#8 C:\xampp3\htdocs\mvc login\Core\View.php(70): Twig\Environment->render('Home/index.html', Array)
+#9 C:\xampp3\htdocs\mvc login\Core\View.php(44): Core\View::getTemplate('Home/index.html', Array)
+#10 C:\xampp3\htdocs\mvc login\App\Controllers\Home.php(23): Core\View::renderTemplate('Home/index.html')
+#11 [internal function]: App\Controllers\Home->indexAction()
+#12 C:\xampp3\htdocs\mvc login\Core\Controller.php(51): call_user_func_array(Array, Array)
+#13 C:\xampp3\htdocs\mvc login\Core\Router.php(121): Core\Controller->__call('index', Array)
+#14 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('')
+#15 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\App\Views\Home\index.html' on line 957
+[09-Aug-2023 17:10:01 Europe/Berlin] Uncaught exception: 'Twig\Error\SyntaxError' with message 'Unexpected "else" tag (expecting closing tag for the "block" tag defined near line 6).'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\TokenParser\BlockTokenParser.php(47): Twig\Parser->subparse(Array, true)
+#1 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(170): Twig\TokenParser\BlockTokenParser->parse(Object(Twig\Token))
+#2 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(83): Twig\Parser->subparse(NULL, false)
+#3 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(491): Twig\Parser->parse(Object(Twig\TokenStream))
+#4 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(519): Twig\Environment->parse(Object(Twig\TokenStream))
+#5 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(351): Twig\Environment->compileSource(Object(Twig\Source))
+#6 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(312): Twig\Environment->loadTemplate('__TwigTemplate_...', 'Home/index.html')
+#7 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('Home/index.html')
+#8 C:\xampp3\htdocs\mvc login\Core\View.php(70): Twig\Environment->render('Home/index.html', Array)
+#9 C:\xampp3\htdocs\mvc login\Core\View.php(44): Core\View::getTemplate('Home/index.html', Array)
+#10 C:\xampp3\htdocs\mvc login\App\Controllers\Home.php(23): Core\View::renderTemplate('Home/index.html')
+#11 [internal function]: App\Controllers\Home->indexAction()
+#12 C:\xampp3\htdocs\mvc login\Core\Controller.php(51): call_user_func_array(Array, Array)
+#13 C:\xampp3\htdocs\mvc login\Core\Router.php(121): Core\Controller->__call('index', Array)
+#14 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('')
+#15 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\App\Views\Home\index.html' on line 957
+[09-Aug-2023 17:10:01 Europe/Berlin] Uncaught exception: 'Twig\Error\SyntaxError' with message 'Unexpected "else" tag (expecting closing tag for the "block" tag defined near line 6).'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\TokenParser\BlockTokenParser.php(47): Twig\Parser->subparse(Array, true)
+#1 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(170): Twig\TokenParser\BlockTokenParser->parse(Object(Twig\Token))
+#2 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(83): Twig\Parser->subparse(NULL, false)
+#3 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(491): Twig\Parser->parse(Object(Twig\TokenStream))
+#4 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(519): Twig\Environment->parse(Object(Twig\TokenStream))
+#5 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(351): Twig\Environment->compileSource(Object(Twig\Source))
+#6 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(312): Twig\Environment->loadTemplate('__TwigTemplate_...', 'Home/index.html')
+#7 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('Home/index.html')
+#8 C:\xampp3\htdocs\mvc login\Core\View.php(70): Twig\Environment->render('Home/index.html', Array)
+#9 C:\xampp3\htdocs\mvc login\Core\View.php(44): Core\View::getTemplate('Home/index.html', Array)
+#10 C:\xampp3\htdocs\mvc login\App\Controllers\Home.php(23): Core\View::renderTemplate('Home/index.html')
+#11 [internal function]: App\Controllers\Home->indexAction()
+#12 C:\xampp3\htdocs\mvc login\Core\Controller.php(51): call_user_func_array(Array, Array)
+#13 C:\xampp3\htdocs\mvc login\Core\Router.php(121): Core\Controller->__call('index', Array)
+#14 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('')
+#15 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\App\Views\Home\index.html' on line 957
+[09-Aug-2023 17:10:05 Europe/Berlin] Uncaught exception: 'Twig\Error\SyntaxError' with message 'Unexpected "else" tag (expecting closing tag for the "block" tag defined near line 6).'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\TokenParser\BlockTokenParser.php(47): Twig\Parser->subparse(Array, true)
+#1 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(170): Twig\TokenParser\BlockTokenParser->parse(Object(Twig\Token))
+#2 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(83): Twig\Parser->subparse(NULL, false)
+#3 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(491): Twig\Parser->parse(Object(Twig\TokenStream))
+#4 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(519): Twig\Environment->parse(Object(Twig\TokenStream))
+#5 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(351): Twig\Environment->compileSource(Object(Twig\Source))
+#6 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(312): Twig\Environment->loadTemplate('__TwigTemplate_...', 'Home/index.html')
+#7 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('Home/index.html')
+#8 C:\xampp3\htdocs\mvc login\Core\View.php(70): Twig\Environment->render('Home/index.html', Array)
+#9 C:\xampp3\htdocs\mvc login\Core\View.php(44): Core\View::getTemplate('Home/index.html', Array)
+#10 C:\xampp3\htdocs\mvc login\App\Controllers\Home.php(23): Core\View::renderTemplate('Home/index.html')
+#11 [internal function]: App\Controllers\Home->indexAction()
+#12 C:\xampp3\htdocs\mvc login\Core\Controller.php(51): call_user_func_array(Array, Array)
+#13 C:\xampp3\htdocs\mvc login\Core\Router.php(121): Core\Controller->__call('index', Array)
+#14 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('')
+#15 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\App\Views\Home\index.html' on line 957
+[09-Aug-2023 17:10:07 Europe/Berlin] Uncaught exception: 'Twig\Error\SyntaxError' with message 'Unexpected "else" tag (expecting closing tag for the "block" tag defined near line 6).'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\TokenParser\BlockTokenParser.php(47): Twig\Parser->subparse(Array, true)
+#1 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(170): Twig\TokenParser\BlockTokenParser->parse(Object(Twig\Token))
+#2 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(83): Twig\Parser->subparse(NULL, false)
+#3 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(491): Twig\Parser->parse(Object(Twig\TokenStream))
+#4 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(519): Twig\Environment->parse(Object(Twig\TokenStream))
+#5 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(351): Twig\Environment->compileSource(Object(Twig\Source))
+#6 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(312): Twig\Environment->loadTemplate('__TwigTemplate_...', 'Home/index.html')
+#7 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('Home/index.html')
+#8 C:\xampp3\htdocs\mvc login\Core\View.php(70): Twig\Environment->render('Home/index.html', Array)
+#9 C:\xampp3\htdocs\mvc login\Core\View.php(44): Core\View::getTemplate('Home/index.html', Array)
+#10 C:\xampp3\htdocs\mvc login\App\Controllers\Home.php(23): Core\View::renderTemplate('Home/index.html')
+#11 [internal function]: App\Controllers\Home->indexAction()
+#12 C:\xampp3\htdocs\mvc login\Core\Controller.php(51): call_user_func_array(Array, Array)
+#13 C:\xampp3\htdocs\mvc login\Core\Router.php(121): Core\Controller->__call('index', Array)
+#14 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('')
+#15 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\App\Views\Home\index.html' on line 957
+[09-Aug-2023 17:10:07 Europe/Berlin] Uncaught exception: 'Twig\Error\SyntaxError' with message 'Unexpected "else" tag (expecting closing tag for the "block" tag defined near line 6).'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\TokenParser\BlockTokenParser.php(47): Twig\Parser->subparse(Array, true)
+#1 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(170): Twig\TokenParser\BlockTokenParser->parse(Object(Twig\Token))
+#2 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(83): Twig\Parser->subparse(NULL, false)
+#3 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(491): Twig\Parser->parse(Object(Twig\TokenStream))
+#4 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(519): Twig\Environment->parse(Object(Twig\TokenStream))
+#5 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(351): Twig\Environment->compileSource(Object(Twig\Source))
+#6 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(312): Twig\Environment->loadTemplate('__TwigTemplate_...', 'Home/index.html')
+#7 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('Home/index.html')
+#8 C:\xampp3\htdocs\mvc login\Core\View.php(70): Twig\Environment->render('Home/index.html', Array)
+#9 C:\xampp3\htdocs\mvc login\Core\View.php(44): Core\View::getTemplate('Home/index.html', Array)
+#10 C:\xampp3\htdocs\mvc login\App\Controllers\Home.php(23): Core\View::renderTemplate('Home/index.html')
+#11 [internal function]: App\Controllers\Home->indexAction()
+#12 C:\xampp3\htdocs\mvc login\Core\Controller.php(51): call_user_func_array(Array, Array)
+#13 C:\xampp3\htdocs\mvc login\Core\Router.php(121): Core\Controller->__call('index', Array)
+#14 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('')
+#15 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\App\Views\Home\index.html' on line 957
+[09-Aug-2023 17:10:08 Europe/Berlin] Uncaught exception: 'Twig\Error\SyntaxError' with message 'Unexpected "else" tag (expecting closing tag for the "block" tag defined near line 6).'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\TokenParser\BlockTokenParser.php(47): Twig\Parser->subparse(Array, true)
+#1 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(170): Twig\TokenParser\BlockTokenParser->parse(Object(Twig\Token))
+#2 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(83): Twig\Parser->subparse(NULL, false)
+#3 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(491): Twig\Parser->parse(Object(Twig\TokenStream))
+#4 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(519): Twig\Environment->parse(Object(Twig\TokenStream))
+#5 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(351): Twig\Environment->compileSource(Object(Twig\Source))
+#6 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(312): Twig\Environment->loadTemplate('__TwigTemplate_...', 'Home/index.html')
+#7 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('Home/index.html')
+#8 C:\xampp3\htdocs\mvc login\Core\View.php(70): Twig\Environment->render('Home/index.html', Array)
+#9 C:\xampp3\htdocs\mvc login\Core\View.php(44): Core\View::getTemplate('Home/index.html', Array)
+#10 C:\xampp3\htdocs\mvc login\App\Controllers\Home.php(23): Core\View::renderTemplate('Home/index.html')
+#11 [internal function]: App\Controllers\Home->indexAction()
+#12 C:\xampp3\htdocs\mvc login\Core\Controller.php(51): call_user_func_array(Array, Array)
+#13 C:\xampp3\htdocs\mvc login\Core\Router.php(121): Core\Controller->__call('index', Array)
+#14 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('')
+#15 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\App\Views\Home\index.html' on line 957
+[09-Aug-2023 17:10:09 Europe/Berlin] Uncaught exception: 'Twig\Error\SyntaxError' with message 'Unexpected "else" tag (expecting closing tag for the "block" tag defined near line 6).'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\TokenParser\BlockTokenParser.php(47): Twig\Parser->subparse(Array, true)
+#1 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(170): Twig\TokenParser\BlockTokenParser->parse(Object(Twig\Token))
+#2 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(83): Twig\Parser->subparse(NULL, false)
+#3 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(491): Twig\Parser->parse(Object(Twig\TokenStream))
+#4 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(519): Twig\Environment->parse(Object(Twig\TokenStream))
+#5 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(351): Twig\Environment->compileSource(Object(Twig\Source))
+#6 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(312): Twig\Environment->loadTemplate('__TwigTemplate_...', 'Home/index.html')
+#7 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('Home/index.html')
+#8 C:\xampp3\htdocs\mvc login\Core\View.php(70): Twig\Environment->render('Home/index.html', Array)
+#9 C:\xampp3\htdocs\mvc login\Core\View.php(44): Core\View::getTemplate('Home/index.html', Array)
+#10 C:\xampp3\htdocs\mvc login\App\Controllers\Home.php(23): Core\View::renderTemplate('Home/index.html')
+#11 [internal function]: App\Controllers\Home->indexAction()
+#12 C:\xampp3\htdocs\mvc login\Core\Controller.php(51): call_user_func_array(Array, Array)
+#13 C:\xampp3\htdocs\mvc login\Core\Router.php(121): Core\Controller->__call('index', Array)
+#14 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('')
+#15 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\App\Views\Home\index.html' on line 957
+[09-Aug-2023 17:10:09 Europe/Berlin] Uncaught exception: 'Twig\Error\SyntaxError' with message 'Unexpected "else" tag (expecting closing tag for the "block" tag defined near line 6).'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\TokenParser\BlockTokenParser.php(47): Twig\Parser->subparse(Array, true)
+#1 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(170): Twig\TokenParser\BlockTokenParser->parse(Object(Twig\Token))
+#2 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(83): Twig\Parser->subparse(NULL, false)
+#3 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(491): Twig\Parser->parse(Object(Twig\TokenStream))
+#4 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(519): Twig\Environment->parse(Object(Twig\TokenStream))
+#5 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(351): Twig\Environment->compileSource(Object(Twig\Source))
+#6 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(312): Twig\Environment->loadTemplate('__TwigTemplate_...', 'Home/index.html')
+#7 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('Home/index.html')
+#8 C:\xampp3\htdocs\mvc login\Core\View.php(70): Twig\Environment->render('Home/index.html', Array)
+#9 C:\xampp3\htdocs\mvc login\Core\View.php(44): Core\View::getTemplate('Home/index.html', Array)
+#10 C:\xampp3\htdocs\mvc login\App\Controllers\Home.php(23): Core\View::renderTemplate('Home/index.html')
+#11 [internal function]: App\Controllers\Home->indexAction()
+#12 C:\xampp3\htdocs\mvc login\Core\Controller.php(51): call_user_func_array(Array, Array)
+#13 C:\xampp3\htdocs\mvc login\Core\Router.php(121): Core\Controller->__call('index', Array)
+#14 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('')
+#15 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\App\Views\Home\index.html' on line 957
+[09-Aug-2023 17:10:19 Europe/Berlin] Uncaught exception: 'Twig\Error\SyntaxError' with message 'Unexpected "else" tag (expecting closing tag for the "block" tag defined near line 6).'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\TokenParser\BlockTokenParser.php(47): Twig\Parser->subparse(Array, true)
+#1 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(170): Twig\TokenParser\BlockTokenParser->parse(Object(Twig\Token))
+#2 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(83): Twig\Parser->subparse(NULL, false)
+#3 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(491): Twig\Parser->parse(Object(Twig\TokenStream))
+#4 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(519): Twig\Environment->parse(Object(Twig\TokenStream))
+#5 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(351): Twig\Environment->compileSource(Object(Twig\Source))
+#6 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(312): Twig\Environment->loadTemplate('__TwigTemplate_...', 'Home/index.html')
+#7 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('Home/index.html')
+#8 C:\xampp3\htdocs\mvc login\Core\View.php(70): Twig\Environment->render('Home/index.html', Array)
+#9 C:\xampp3\htdocs\mvc login\Core\View.php(44): Core\View::getTemplate('Home/index.html', Array)
+#10 C:\xampp3\htdocs\mvc login\App\Controllers\Home.php(23): Core\View::renderTemplate('Home/index.html')
+#11 [internal function]: App\Controllers\Home->indexAction()
+#12 C:\xampp3\htdocs\mvc login\Core\Controller.php(51): call_user_func_array(Array, Array)
+#13 C:\xampp3\htdocs\mvc login\Core\Router.php(121): Core\Controller->__call('index', Array)
+#14 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('')
+#15 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\App\Views\Home\index.html' on line 957
+[09-Aug-2023 17:10:20 Europe/Berlin] Uncaught exception: 'Twig\Error\SyntaxError' with message 'Unexpected "else" tag (expecting closing tag for the "block" tag defined near line 6).'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\TokenParser\BlockTokenParser.php(47): Twig\Parser->subparse(Array, true)
+#1 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(170): Twig\TokenParser\BlockTokenParser->parse(Object(Twig\Token))
+#2 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(83): Twig\Parser->subparse(NULL, false)
+#3 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(491): Twig\Parser->parse(Object(Twig\TokenStream))
+#4 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(519): Twig\Environment->parse(Object(Twig\TokenStream))
+#5 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(351): Twig\Environment->compileSource(Object(Twig\Source))
+#6 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(312): Twig\Environment->loadTemplate('__TwigTemplate_...', 'Home/index.html')
+#7 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('Home/index.html')
+#8 C:\xampp3\htdocs\mvc login\Core\View.php(70): Twig\Environment->render('Home/index.html', Array)
+#9 C:\xampp3\htdocs\mvc login\Core\View.php(44): Core\View::getTemplate('Home/index.html', Array)
+#10 C:\xampp3\htdocs\mvc login\App\Controllers\Home.php(23): Core\View::renderTemplate('Home/index.html')
+#11 [internal function]: App\Controllers\Home->indexAction()
+#12 C:\xampp3\htdocs\mvc login\Core\Controller.php(51): call_user_func_array(Array, Array)
+#13 C:\xampp3\htdocs\mvc login\Core\Router.php(121): Core\Controller->__call('index', Array)
+#14 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('')
+#15 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\App\Views\Home\index.html' on line 957
+[09-Aug-2023 17:10:20 Europe/Berlin] Uncaught exception: 'Twig\Error\SyntaxError' with message 'Unexpected "else" tag (expecting closing tag for the "block" tag defined near line 6).'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\TokenParser\BlockTokenParser.php(47): Twig\Parser->subparse(Array, true)
+#1 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(170): Twig\TokenParser\BlockTokenParser->parse(Object(Twig\Token))
+#2 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(83): Twig\Parser->subparse(NULL, false)
+#3 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(491): Twig\Parser->parse(Object(Twig\TokenStream))
+#4 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(519): Twig\Environment->parse(Object(Twig\TokenStream))
+#5 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(351): Twig\Environment->compileSource(Object(Twig\Source))
+#6 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(312): Twig\Environment->loadTemplate('__TwigTemplate_...', 'Home/index.html')
+#7 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('Home/index.html')
+#8 C:\xampp3\htdocs\mvc login\Core\View.php(70): Twig\Environment->render('Home/index.html', Array)
+#9 C:\xampp3\htdocs\mvc login\Core\View.php(44): Core\View::getTemplate('Home/index.html', Array)
+#10 C:\xampp3\htdocs\mvc login\App\Controllers\Home.php(23): Core\View::renderTemplate('Home/index.html')
+#11 [internal function]: App\Controllers\Home->indexAction()
+#12 C:\xampp3\htdocs\mvc login\Core\Controller.php(51): call_user_func_array(Array, Array)
+#13 C:\xampp3\htdocs\mvc login\Core\Router.php(121): Core\Controller->__call('index', Array)
+#14 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('')
+#15 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\App\Views\Home\index.html' on line 957
+[09-Aug-2023 17:10:23 Europe/Berlin] Uncaught exception: 'Twig\Error\SyntaxError' with message 'Unexpected "else" tag (expecting closing tag for the "block" tag defined near line 6).'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\TokenParser\BlockTokenParser.php(47): Twig\Parser->subparse(Array, true)
+#1 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(170): Twig\TokenParser\BlockTokenParser->parse(Object(Twig\Token))
+#2 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(83): Twig\Parser->subparse(NULL, false)
+#3 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(491): Twig\Parser->parse(Object(Twig\TokenStream))
+#4 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(519): Twig\Environment->parse(Object(Twig\TokenStream))
+#5 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(351): Twig\Environment->compileSource(Object(Twig\Source))
+#6 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(312): Twig\Environment->loadTemplate('__TwigTemplate_...', 'Home/index.html')
+#7 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('Home/index.html')
+#8 C:\xampp3\htdocs\mvc login\Core\View.php(70): Twig\Environment->render('Home/index.html', Array)
+#9 C:\xampp3\htdocs\mvc login\Core\View.php(44): Core\View::getTemplate('Home/index.html', Array)
+#10 C:\xampp3\htdocs\mvc login\App\Controllers\Home.php(23): Core\View::renderTemplate('Home/index.html')
+#11 [internal function]: App\Controllers\Home->indexAction()
+#12 C:\xampp3\htdocs\mvc login\Core\Controller.php(51): call_user_func_array(Array, Array)
+#13 C:\xampp3\htdocs\mvc login\Core\Router.php(121): Core\Controller->__call('index', Array)
+#14 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('')
+#15 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\App\Views\Home\index.html' on line 957
+[09-Aug-2023 17:10:34 Europe/Berlin] Uncaught exception: 'Twig\Error\SyntaxError' with message 'Unexpected "else" tag (expecting closing tag for the "block" tag defined near line 6).'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\TokenParser\BlockTokenParser.php(47): Twig\Parser->subparse(Array, true)
+#1 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(170): Twig\TokenParser\BlockTokenParser->parse(Object(Twig\Token))
+#2 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(83): Twig\Parser->subparse(NULL, false)
+#3 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(491): Twig\Parser->parse(Object(Twig\TokenStream))
+#4 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(519): Twig\Environment->parse(Object(Twig\TokenStream))
+#5 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(351): Twig\Environment->compileSource(Object(Twig\Source))
+#6 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(312): Twig\Environment->loadTemplate('__TwigTemplate_...', 'Home/index.html')
+#7 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('Home/index.html')
+#8 C:\xampp3\htdocs\mvc login\Core\View.php(70): Twig\Environment->render('Home/index.html', Array)
+#9 C:\xampp3\htdocs\mvc login\Core\View.php(44): Core\View::getTemplate('Home/index.html', Array)
+#10 C:\xampp3\htdocs\mvc login\App\Controllers\Home.php(23): Core\View::renderTemplate('Home/index.html')
+#11 [internal function]: App\Controllers\Home->indexAction()
+#12 C:\xampp3\htdocs\mvc login\Core\Controller.php(51): call_user_func_array(Array, Array)
+#13 C:\xampp3\htdocs\mvc login\Core\Router.php(121): Core\Controller->__call('index', Array)
+#14 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('')
+#15 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\App\Views\Home\index.html' on line 957
+[09-Aug-2023 17:10:34 Europe/Berlin] Uncaught exception: 'Twig\Error\SyntaxError' with message 'Unexpected "else" tag (expecting closing tag for the "block" tag defined near line 6).'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\TokenParser\BlockTokenParser.php(47): Twig\Parser->subparse(Array, true)
+#1 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(170): Twig\TokenParser\BlockTokenParser->parse(Object(Twig\Token))
+#2 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(83): Twig\Parser->subparse(NULL, false)
+#3 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(491): Twig\Parser->parse(Object(Twig\TokenStream))
+#4 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(519): Twig\Environment->parse(Object(Twig\TokenStream))
+#5 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(351): Twig\Environment->compileSource(Object(Twig\Source))
+#6 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(312): Twig\Environment->loadTemplate('__TwigTemplate_...', 'Home/index.html')
+#7 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('Home/index.html')
+#8 C:\xampp3\htdocs\mvc login\Core\View.php(70): Twig\Environment->render('Home/index.html', Array)
+#9 C:\xampp3\htdocs\mvc login\Core\View.php(44): Core\View::getTemplate('Home/index.html', Array)
+#10 C:\xampp3\htdocs\mvc login\App\Controllers\Home.php(23): Core\View::renderTemplate('Home/index.html')
+#11 [internal function]: App\Controllers\Home->indexAction()
+#12 C:\xampp3\htdocs\mvc login\Core\Controller.php(51): call_user_func_array(Array, Array)
+#13 C:\xampp3\htdocs\mvc login\Core\Router.php(121): Core\Controller->__call('index', Array)
+#14 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('')
+#15 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\App\Views\Home\index.html' on line 957
+[09-Aug-2023 17:24:16 Europe/Berlin] Uncaught exception: 'Twig\Error\SyntaxError' with message 'Unexpected "else" tag (expecting closing tag for the "block" tag defined near line 6).'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\TokenParser\BlockTokenParser.php(47): Twig\Parser->subparse(Array, true)
+#1 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(170): Twig\TokenParser\BlockTokenParser->parse(Object(Twig\Token))
+#2 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Parser.php(83): Twig\Parser->subparse(NULL, false)
+#3 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(491): Twig\Parser->parse(Object(Twig\TokenStream))
+#4 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(519): Twig\Environment->parse(Object(Twig\TokenStream))
+#5 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(351): Twig\Environment->compileSource(Object(Twig\Source))
+#6 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(312): Twig\Environment->loadTemplate('__TwigTemplate_...', 'Home/index.html')
+#7 C:\xampp3\htdocs\mvc login\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('Home/index.html')
+#8 C:\xampp3\htdocs\mvc login\Core\View.php(70): Twig\Environment->render('Home/index.html', Array)
+#9 C:\xampp3\htdocs\mvc login\Core\View.php(44): Core\View::getTemplate('Home/index.html', Array)
+#10 C:\xampp3\htdocs\mvc login\App\Controllers\Home.php(23): Core\View::renderTemplate('Home/index.html')
+#11 [internal function]: App\Controllers\Home->indexAction()
+#12 C:\xampp3\htdocs\mvc login\Core\Controller.php(51): call_user_func_array(Array, Array)
+#13 C:\xampp3\htdocs\mvc login\Core\Router.php(121): Core\Controller->__call('index', Array)
+#14 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('')
+#15 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\App\Views\Home\index.html' on line 957
+[09-Aug-2023 19:23:41 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('logina')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130

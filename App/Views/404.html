@@ -1,10 +1,31 @@
-{% extends "base.html" %}
+{% extends "base2.html" %}
 
-{% block title %}Page not found{% endblock %}
+{% block title %}Sign up{% endblock %}
 
 {% block body %}
 
-    <h1>Page not found</h1>
-    <p>Sorry, that page doesn't exist.</p>
+<body id="errorBody">
+    <div class="activated">
+        <div id="heading">
+            <a href="/">
+                <h1>B &nbsp; U &nbsp; D &nbsp; Ż &nbsp; E &nbsp; T &nbsp; &nbsp; &nbsp; &nbsp; O &nbsp; S &nbsp; O
+                    &nbsp; B
+                    &nbsp; I &nbsp; S &nbsp; T &nbsp; Y</h1>
+            </a>
+        </div>
 
+        <div id="headingSmall">
+            <a href="/">
+                <h1>&nbsp; &nbsp; B &nbsp; U &nbsp; D &nbsp; Ż &nbsp; E &nbsp; T &nbsp; &nbsp;</h1>
+                <h1>O &nbsp; S &nbsp; O &nbsp; B &nbsp; I &nbsp; S &nbsp; T &nbsp; Y</h1>
+            </a>
+        </div>
+
+
+        <div class="activatedText">
+            <p><span id="firstWord">Nie ma!</span></br> Niestety, ta strona nie istnieje :(</p>
+            <img src="/css/pictures/alien2.png" alt="" width="200" height="250">
+        </div>
+
+    </div>
 {% endblock %}
