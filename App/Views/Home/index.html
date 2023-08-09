@@ -4,8 +4,8 @@
 
 {% block body %}
 {% if current_user %}
-Hello {{ current_user.name }}.
-<section id="options">
+<body>
+  <section id="options">
     <div id="heading">
       <div id="title">
         <div class="split left">
@@ -18,6 +18,10 @@ Hello {{ current_user.name }}.
           <hr color="gold">
         </div>
       </div>
+    </div>
+
+    <div id="welcomeHeading">
+      <h4>Cześć {{ current_user.name }}.</h4>
     </div>
 
     <div class="navbar">
@@ -921,11 +925,11 @@ Hello {{ current_user.name }}.
     <input type="checkbox" id="hamburger-input" class="burger-shower">
     <label id="hamburger-menu" for="hamburger-input">
       <div id="sidebar-menu">
-        <h3><svg xmlns="http://www.w3.org/2000/svg" width="50" height="50"
-          fill="currentColor" class="bi bi-x" viewBox="0 0 16 16">
-          <path
-            d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z" />
-        </svg></h3>
+        <h3><svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor" class="bi bi-x"
+            viewBox="0 0 16 16">
+            <path
+              d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z" />
+          </svg></h3>
         <ul>
           <li><a href="#">&nbsp;+ &nbsp;&nbsp;Przychód</a></li>
           <li><a href="addExpense.html">&nbsp;+ &nbsp;&nbsp;Wydatek</a></li>
@@ -954,32 +958,32 @@ Hello {{ current_user.name }}.
 
     <div class="overlay"></div>
   </section>
-{% else %}
-<div class="mainMenu">
+  {% else %}
+  <div class="mainMenu">
     <div class="split left">
-        <h1>B &nbsp; U &nbsp; D &nbsp; Ż &nbsp; E &nbsp; T &nbsp; &nbsp;</h1>
-        <h2>Na czarną godzinę &nbsp;</h2>
-        <div class="downText">
-            <h3>Jednym &nbsp;</h3>
-            <h4>KOS</h4>
-        </div>
-        <div class="centered">
-            <a href="/signup/new">Zarejestruj się</a>
-        </div>
+      <h1>B &nbsp; U &nbsp; D &nbsp; Ż &nbsp; E &nbsp; T &nbsp; &nbsp;</h1>
+      <h2>Na czarną godzinę &nbsp;</h2>
+      <div class="downText">
+        <h3>Jednym &nbsp;</h3>
+        <h4>KOS</h4>
+      </div>
+      <div class="centered">
+        <a href="/signup/new">Zarejestruj się</a>
+      </div>
     </div>
 
     <div class="split right">
-        <h1>&nbsp; &nbsp; O &nbsp; S &nbsp; O &nbsp; B &nbsp; I &nbsp; S &nbsp; T &nbsp; Y</h1>
-        <h2>&nbsp;&nbsp;i złote czasy</h2>
-        <div class="downText">
-            <h3>&nbsp; słowem:</h3>
-            <h4>MOS</h4>
-        </div>
-        <div class="centered">
-            <a href="/login">Zaloguj się</a>
-        </div>
+      <h1>&nbsp; &nbsp; O &nbsp; S &nbsp; O &nbsp; B &nbsp; I &nbsp; S &nbsp; T &nbsp; Y</h1>
+      <h2>&nbsp;&nbsp;i złote czasy</h2>
+      <div class="downText">
+        <h3>&nbsp; słowem:</h3>
+        <h4>MOS</h4>
+      </div>
+      <div class="centered">
+        <a href="/login">Zaloguj się</a>
+      </div>
     </div>
-</div>
-{% endif %}
+  </div>
+  {% endif %}
 
-{% endblock %}
+  {% endblock %}
