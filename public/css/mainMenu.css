@@ -1218,7 +1218,7 @@ footer {
     flex-direction: column;
 }
 
-.registration #inputs {
+.registration .inputs {
     margin-top: 60px;
     width: 40%;
     height: 80%;
@@ -1406,11 +1406,11 @@ footer {
     color: gold;
 }
 
-.successInfoText {
+.infoText {
     margin-top: 100px;
     margin-left: 15%;
     width: 65%;
-    height: 420px;
+    height: 440px;
     background-color: rgba(255, 217, 0, 0.9);
     display: flex;
     flex-direction: column;
@@ -1419,24 +1419,26 @@ footer {
     border-radius: 30px;
 }
 
-.successInfoText img {
+.infoText img {
     margin-left: 35%;
 }
 
-.successInfo p {
-    margin-left: 25%;
+.infoText p {
+    margin-left: 22%;
+    margin-bottom: 0;
+    margin-top: 0;
     font-family: 'Bungee Inline', serif;
     font-size: 13px;
+    padding: 0 5% 0 5%;
 }
 
-.successInfo #firstWords {
-    font-size: 24px;
-    color: green;
+.infoText .firstWords {
+    font-size: 30px;
     background-color: transparent;
-    padding: 0;
+    color: rgb(1, 151, 1);
 }
 
-.successInfo #firstTextLine {
+.infoText #firstTextLine {
     font-size: 16px;
     color: rgb(3, 3, 126);
     background-color: transparent;
@@ -1483,7 +1485,7 @@ footer {
 
 .activatedText {
     margin-top: 100px;
-    margin-left: 15%;
+    margin-left: 10%;
     width: 65%;
     height: 420px;
     background-color: rgba(255, 217, 0, 0.9);
@@ -1494,32 +1496,15 @@ footer {
     border-radius: 30px;
 }
 
-#vintage-dancers {
-    margin-left: 37%;
-}
-
-.activatedText p {
-    margin-left: 25%;
-    font-family: 'Bungee Inline', serif;
-    font-size: 13px;
-}
-
-.activatedText #firstWord {
-    font-size: 30px;
-    margin-left: 6%;
-    background-color: transparent;
-    color: rgb(1, 172, 1);
-}
-
-.activatedText a {
+.infoText a {
     font-size: 25px;
     background-color: transparent;
     border: none;
     color: greenyellow;
 }
 
-.activatedText a:hover,#passwordForgot a:hover, #passwordResetSuccessSection a:hover,
-#tokenResetExpiredSection a:hover {
+.infoText a:hover,#passwordForgot a:hover, #passwordResetSuccess a:hover,
+#tokenExpiredSection a:hover {
     -webkit-animation: rainbow 1s infinite;
     -ms-animation: rainbow 1s infinite;
     -o-animation: rainbow 1s infinite;
@@ -1785,7 +1770,7 @@ footer {
     flex-direction: column;
 }
 
-.loggingin #inputs {
+.loggingin .inputs {
     margin-top: 20px;
     width: 70%;
     height: 50%;
@@ -1933,16 +1918,18 @@ footer {
 }
 
 #resetRequestSection {
-    display: flex;
-    flex-direction: column;
-    margin-top: 4%;
-    margin-left: 40%;
-    width: 60%;
+    width: 40%;
+    margin-left: 28%;
 }
 
 #resetRequestSection p {
     font-family: 'Bungee Inline', cursive;
+    font-size: 22px;
     color: black;
+}
+
+#resetRequestSection img {
+    top: 8%;
 }
 
 #formPasswordReset {
@@ -1959,14 +1946,14 @@ footer {
 }
 
 #formPasswordReset button {
-    margin-top: 40%;
+    margin-top: 10em;
     margin-left: 10%;
     height: 70px;
     width: 210px;
 }
 
-#formPasswordReset #inputs {
-    margin-top: 10%;
+#formPasswordReset .inputs {
+    margin-top: 6em;
     width: 100%;
 }
 
@@ -2006,56 +1993,79 @@ footer {
     flex-direction: column;
 }
 
+@media (max-width: 800px) { 
+    #formPasswordReset {
+        flex-direction: column;
+    }
+    #formPasswordReset button {
+        margin-top: 0;
+    }
+    #formPasswordReset .inputs {
+        margin-top: 10%;
+        width: 90%;
+    }
+}
+
 /* TOKEN EXPIRED STYLES */
 
-#tokenExpiredText {
+#tokenExpiredSection {
     flex-direction: row;
     width: 50%;
     margin-left: 23%;
 }
 
-
-#passwordResetSuccessSection, #tokenResetExpiredSection {
-    margin-top: 3%;
-    font-family: 'Bungee Inline', serif;
-    font-size: 13px;
-    justify-content:flex-start;
-}
-
-#tokenResetExpiredSection {
-    margin-top: 10%;
-}
-
-#passwordResetSuccessSection p, #tokenResetExpiredSection p {
+#tokenExpiredSection img {
     margin: 0;
 }
 
-#manWithProblem {
-    margin-top: 12%;
+#tokenExpiredSection p {
+    margin-top: 5%;
+    margin-left: 5%;
 }
 
-#passwordResetSuccessSection a, #tokenResetExpiredSection a {
+
+#passwordResetSuccess img {
+    top: 4%;
+    left: 8%;
+}
+
+#passwordResetSuccess a, #tokenExpiredSection a {
     background-color: transparent;
     border: none;
     /* color: #019fbb;
     font-size: 16px; */
 }
 
-#tokenResetExpiredSection span {
+#tokenExpiredSection span {
     font-size: 26px;
     color: rgb(165, 0, 165);
     background-color: transparent;
 }
 
-#tokenResetExpiredSection a {
+#tokenExpiredSection a {
     color: rgb(209, 0, 0);
     font-size: 16px;
+}
+
+@media (max-width: 920px) {
+    #tokenExpiredSection {
+        flex-direction: column;
+    }
+    #tokenExpiredSection img {
+        right: 1%;
+        top: 10%
+    }
+}
+@media (max-width: 620px) {
+    #tokenExpiredSection .firstWords {
+        font-size: 22px;
+    }
 }
 
 /* ERROR SITE STYLES */
 
 #errorBody {
-    background: no-repeat url(./pictures/universe.png);
+    background: no-repeat url(/css/pictures/universe.png);
 }
 
 #errorBody a {
@@ -2063,10 +2073,8 @@ footer {
 }
 
 #errorBody .activatedText {
-    width: 130%;
-    margin-left: -17%;
     background-color: rgba(255, 217, 0, 0.7);
-    flex-direction: row;
+    width: 80%;
 }
 
 #errorBody p {
@@ -2075,7 +2083,7 @@ footer {
 }
 
 #errorBody img {
-    margin-top: 24.75%;
+    margin-top: 16%;
     margin-right: 3%;
 }
 
@@ -2083,4 +2091,64 @@ footer {
     color: red;
     background-color: transparent;
     font-size: 20px;
+}
+
+#error404 {
+    margin-left: 10%;
+}
+
+#error404 img {
+    margin-top: 4.25%;
+}
+
+@media (max-width: 1200px) { 
+    .infoText img {
+        margin-left: 30%;
+    }
+
+    .infoText p {
+        margin-left: 20%;
+    }
+
+    .activated .firstWords {
+        font-size: 25px;
+    }
+}
+
+@media (max-width: 1000px) { 
+    .infoText img {
+        margin-left: 25%;
+    }
+    .infoText p {
+        margin-left: 15%;
+    }
+}
+@media (max-width: 900px) { 
+    .infoText img {
+        margin-left: 20%;
+    }
+    .infoText p {
+        margin-left: 10%;
+    }
+}
+@media (max-width: 800px) { 
+    .infoText img {
+        margin-left: 15%;
+    }
+    .infoText p {
+        margin-left: 5%;
+    }
+    #formPasswordReset {
+        flex-direction: column;
+    }
+}
+@media (max-width: 700px) { 
+    .infoText img {
+        margin-left: 10%;
+    }
+}
+@media (max-width: 600px) { 
+    .infoText img {
+        margin-left: 3%;
+    }
 }

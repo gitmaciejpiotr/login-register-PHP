@@ -22,32 +22,38 @@
 
         <form method="post" id="formPasswordReset" action="/password/reset-password">
             {% if user.errors is not empty %}
-            <div class="errors">
-                <p>Coś poszło nie tak:</p>
-                <ol>
-                    {% for error in user.errors %}
-                    <li>{{ error }}</li>
-                    {% endfor %}
-                </ol>
+            <div id="errorLayout">
+                <div class="errors">
+                    <p>Coś poszło nie tak:</p>
+                    <ol>
+                        {% for error in user.errors %}
+                        <li>{{ error }}</li>
+                        {% endfor %}
+                    </ol>
+                </div>
+                {% endif %}
+
+
+                <input type="hidden" name="token" value="{{ token }}" />
+
+                <section class="inputs">
+                    <div>
+                        <input id="myInput" type="password" name="password" placeholder="Wpisz nowe hasło"
+                            class="form-control" required>
+                        <input id="myInput2" type="password" name="password2" placeholder="Powtórz hasło"
+                            class="form-control" required>
+                        <input id="showPassword" type="checkbox" onclick="myFunction()">
+                        <label for="showPassword">Pokaż hasło</label>
+                    </div>
+                </section>
+
+                <div id="button">
+                    <button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RESET!&nbsp;&nbsp;<img
+                            src="/css/pictures/finger-png-43096.png" alt="" width="50" height="35"></button>
+                </div>
+                {% if user.errors is not empty %}
             </div>
             {% endif %}
-
-
-            <input type="hidden" name="token" value="{{ token }}" />
-
-            <section id="inputs">
-                <div>
-                    <input id="myInput" type="password" name="password" placeholder="Wpisz nowe hasło" class="form-control" required>
-                    <input id="myInput2" type="password" name="password2" placeholder="Powtórz hasło" class="form-control" required>
-                    <input id="showPassword" type="checkbox" onclick="myFunction()">
-                    <label for="showPassword">Pokaż hasło</label>
-                </div>
-            </section>
-
-            <div id="button">
-                <button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RESET!&nbsp;&nbsp;<img src="/css/pictures/finger-png-43096.png" alt="" width="50"
-                        height="35"></button>
-            </div>
         </form>
     </div>
     {% endblock %}
