@@ -1312,6 +1312,7 @@ footer {
 
     .registration form {
         flex-direction: column;
+        justify-content: space-evenly;
     }
 
     .registration #button {
@@ -1323,7 +1324,7 @@ footer {
 
     .registration button {
         margin: 0;
-        margin-bottom: 15px;
+        margin-bottom: 7%;
     }
 
     .registration input {
@@ -1337,9 +1338,30 @@ footer {
         height: 80%;
     }
 
-    .registration #formSignupBigger {
-        height: 550px;
+    .registration .formBigger {
+        height: 710px;
+        margin-bottom: 5%;
+    }    
+    
+    .formBigger .inputs {
+        margin-left: 15%;
     }
+
+    .formBigger .inputs {
+        margin-left: 25%;
+    }
+
+    .formBigger input {
+        width: 120%;
+    }
+
+    .formBigger .errors {
+        margin-left: 5%;
+    }
+
+    /* #button {
+        margin-bottom: 15%;
+    } */
 }
 
 @media (max-width: 800px) {
@@ -1932,65 +1954,37 @@ footer {
     top: 8%;
 }
 
-#formPasswordReset {
-    margin-top: 100px;
-    margin-left: 15%;
-    width: 65%;
-    height: 400px;
-    background-color: rgba(255, 217, 0, 0.9);
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    border: 8px solid black;
-    border-radius: 30px;
+#resetPassword .inputs {
+    padding: 3%;
 }
 
-#formPasswordReset button {
-    margin-top: 10em;
-    margin-left: 10%;
-    height: 70px;
-    width: 210px;
-}
-
-#formPasswordReset .inputs {
-    margin-top: 6em;
-    width: 100%;
-}
-
-#formPasswordReset input {
-    margin-left: 20%;
-}
-
-#formPasswordReset #showPassword {
-    margin-left: 20%;
-}
-
-#formPasswordReset .errors {
-    margin-top: 5%;
+#resetBiggerForm {
     width: 70%;
 }
 
-#formPasswordReset .errors p {
-    margin-left: 10%;
+#resetBiggerForm .errors {
+    padding: 2%;
 }
 
-#formPasswordReset .errors li {
-    margin-left: 10%;
-}
-
-.loggingin .errors {
-    font-family: 'Bungee Inline', serif;
-    font-size: 13px;
-    list-style-type: none;
-}
-
-.loggingin .errors p {
-    font-size: 14.5px;
-    color: #DC042C;
+#resetBiggerForm #button {
+    margin-right: 3%;
 }
 
 #formPassword {
     flex-direction: column;
+}
+@media (max-width: 1100px) { 
+    #resetBiggerForm {
+        width: 65%;
+        height: 600px;
+        flex-direction: column;
+    }
+
+    #resetBiggerForm .inputs {
+        margin-top: 4%;
+        margin-left: 20%;
+        width: 45%;
+    }
 }
 
 @media (max-width: 800px) { 
