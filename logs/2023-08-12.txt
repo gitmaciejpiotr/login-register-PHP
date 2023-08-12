@@ -1,0 +1,68 @@
+[12-Aug-2023 21:16:33 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[12-Aug-2023 21:21:41 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[12-Aug-2023 21:27:23 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[12-Aug-2023 21:28:15 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[12-Aug-2023 21:28:48 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[12-Aug-2023 21:30:19 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[12-Aug-2023 21:31:18 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[12-Aug-2023 22:20:38 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[12-Aug-2023 22:26:17 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[12-Aug-2023 22:26:41 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[12-Aug-2023 22:32:18 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[12-Aug-2023 22:45:10 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[12-Aug-2023 22:53:03 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[12-Aug-2023 22:53:39 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[12-Aug-2023 22:53:45 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[12-Aug-2023 22:55:02 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
+[12-Aug-2023 22:56:48 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 C:\xampp3\htdocs\mvc login\public\index.php(42): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp3\htdocs\mvc login\Core\Router.php' on line 130
